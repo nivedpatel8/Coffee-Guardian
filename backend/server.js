@@ -51,6 +51,15 @@ db.once("open", () => {
   console.log("Connected to MongoDB");
 });
 
+// Add this route to handle GET requests to the root URL
+app.get('/', (req, res) => {
+  res.json({ 
+    message: "Coffee Guardian API is running!", 
+    status: "Connected to MongoDB",
+    timestamp: new Date().toISOString()
+  });
+});
+
 // Routes
 app.use("/api/auth", authRoutes);
 app.use("/api/practices", practicesRoutes);
