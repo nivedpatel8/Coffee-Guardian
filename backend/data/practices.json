@@ -1,0 +1,1333 @@
+{
+  "Coffee": {
+    "January": {
+      "Cultural Practices Summary": [
+        "Harvest and process Arabica coffee when 90% of fruits are ripe[32][52].",
+        "Continue harvesting and processing of Robusta coffee using picking mats to avoid gleanings[52].",
+        "Collect Arabica gleanings and dispose of berries infested with berry borer[52].",
+        "Collect left over fruits and off-season berries in berry borer infested blocks[52].",
+        "Apply lime to correct soil pH based on soil test values if not done in previous months[44][52].",
+        "Install Broca traps around drying yard (10 traps per acre) to monitor coffee berry borer incidence[32][52].",
+        "Clean paths around estates to prevent fire accidents[52].",
+        "Water young seedlings in new clearings when necessary[52].",
+        "Take up soil testing and liming of soils based on requirements[47].",
+        "Complete nursery bed preparation and seed sowing for new plantations[47][52]."
+      ],
+      "Nursery Practices": [
+        "Prepare germination beds of 1 metre width and convenient length raised 15 cm from ground level[47].",
+        "Add 4 bags (10 kg) of matured farm yard manure or well-dried compost per bed[47].",
+        "Selected and certified seeds can be sown during December or January in nursery beds[47].",
+        "Sow seeds with flat side facing soil to help in easy germination[47].",
+        "Cover seeds with fine sand to 1 cm depth and maintain 2.5 cm spacing[72].",
+        "Use clear plastic/polyethylene cover during cold January weather to accelerate germination[72].",
+        "Treat seeds with Vitavax 75 WP at 0.66g/kg or Bavistin 50 WP at 1g/kg before sowing[52].",
+        "Water nursery beds regularly but avoid water stagnation[66].",
+        "Maintain nursery beds under 50% shade conditions[71]."
+      ],
+      "New Clearings": [
+        "Water young coffee plants @ 4-5 litres per plant per week[47].",
+        "Apply hutting to prevent sun scorching of young plants[47].",
+        "Provide cross stakes and mulching for wind protection[47].",
+        "Apply NPK fertilizer 20:20:0:13 @ 20-30 g per plant[47].",
+        "Monitor young plants for pest and disease incidence[52]."
+      ],
+      "Agronomical Practices": [
+        "Harvest Arabica coffee when fruits are bright red and fully mature[32][46].",
+        "Use selective picking method - pick only ripe cherries, avoid mixing with unripe fruits[55][57].",
+        "Robusta harvesting continues from December through February[46][56].",
+        "Maintain harvest records and ensure clean collection bags are used[57].",
+        "Process harvested coffee on same day to prevent pre-fermentation[55][57].",
+        "Follow proper spacing between coffee plants: Arabica 5x5 ft for dwarf varieties, 6x6 or 7x7 ft for tall varieties[47].",
+        "Maintain shade trees at appropriate density - 300-350 shade trees per acre[35].",
+        "Continue irrigation in Robusta blocks @ 25mm once in 20-25 days if winter rains insufficient[32].",
+        "Monitor plantation for any fire hazards and maintain fire paths[52]."
+      ],
+      "Soil Sampling and Management": [
+        "Each soil sample should represent 2 hectares of area[47][52].",
+        "Collect samples from middle of 4 plants, dig 22 cm deep hole[47].",
+        "Mix soil from 20 spots to get uniform mixture, quarter to 500g composite sample[47].",
+        "January is ideal time for soil sample collection after harvesting[47][72].",
+        "Test soil pH and apply agricultural lime if pH below 6.1[44][70].",
+        "Use agricultural lime or dolomite with 80%+ neutralization value[44].",
+        "Apply lime when sufficient soil moisture exists[44].",
+        "Allow minimum 30-45 days gap between lime and fertilizer application[44].",
+        "On-spot mobile soil testing campaigns available through Coffee Board[44]."
+      ],
+      "Post-Harvest Management": [
+        "Wet processing method: Pulp ripe cherries within 6 hours of harvest[55][57].",
+        "Remove inferior fruits through flotation before pulping[55][57].",
+        "Maintain optimal fermentation - avoid over-fermentation[55][57].",
+        "Wash fermented beans with clean water and soak for 6-8 hours[55][57].",
+        "Dry wet parchment to 10% moisture (forlit weight 15.5 kg for Arabica)[55][57].",
+        "Dry processing method: Pick when 90% fruits are ripe, sort out defective cherries[55][63].",
+        "Spread cherries 4 cm thick initially, increase to 8 cm after 3-4 days[55][63].",
+        "Rake cherries 6-8 times daily for uniform drying[55][63].",
+        "Dry cherry coffee to 11-12% moisture (forlit weight 17 kg Arabica, 18 kg Robusta)[55][63].",
+        "Store processed coffee in clean gunny bags on wooden dunnage, away from walls[55][57].",
+        "Do not store at estate level beyond May due to monsoon conditions[55]."
+      ],
+      "Pest Management": [
+        "Coffee Berry Borer: Install Broca traps around drying yards (10 per acre)[32][52].",
+        "Use picking mats during harvesting to prevent berry borer infestation[52][67].",
+        "Collect all gleanings and left-over fruits to break pest breeding cycle[52][67].",
+        "Apply spot treatment with endosulfan if severe infestation noticed[67].",
+        "Remove off-season berries which serve as breeding sites[52][67].",
+        "Follow phyto-sanitary measures - clean and timely harvest[67].",
+        "Monitor for root mealybug incidence and apply control measures if necessary[52].",
+        "Maintain proper pruning to facilitate effective insecticide application[67]."
+      ],
+      "Disease Management": [
+        "Monitor for coffee leaf rust symptoms on Arabica plantations[44].",
+        "In North-East monsoon areas, spray 0.5% Bordeaux mixture or hexaconazole 5% EC @ 400 ml/200L if rust symptoms present[44].",
+        "Maintain proper sanitation in processing areas to prevent contamination[55][57].",
+        "Ensure proper drainage around coffee plants to prevent root diseases[44].",
+        "Remove and dispose of diseased plant material from plantation[52].",
+        "Monitor nursery seedlings for collar rot and other fungal diseases[52][66]."
+      ],
+      "Post harvest management": []
+    },
+
+    "February": {
+      "Cultural Practices Summary": [
+        "Take up pruning in Arabica[1].",
+        "Provide blossom irrigation during the second fortnight for Robusta and take up blossom manuring[1].",
+        "Collect soil samples for lime and fertilizer application[1].",
+        "Apply lime to correct soil pH based on soil test values[1].",
+        "Install Broca traps around drying yard and in the field (10 traps per acre) to manage coffee berry borer[1].",
+        "Take up control measures against root mealy bugs if incidence is noticed[1].",
+        "Spray systemic fungicide hexaconazole 5% EC @ 400 ml/200 litres of water in coffee leaf rust disease affected Arabica plantations[1].",
+        "Continue the harvesting and processing of Robusta (Use picking mats to avoid gleanings)[1].",
+        "Collect Arabica gleanings and disinfestations/disposal of berries infested with berry borer[1].",
+        "Collect left over fruits from Robusta plantation[1]."
+      ],
+      "Nursery Practices": [
+        "Preparation of secondary nursery beds, filling and arranging of polybags and transplanting[1]."
+      ],
+      "New Clearings": [
+        "Initiate preparation of land for new planting[1].",
+        "Provide irrigation for young coffee plants[1]."
+      ],
+      "Agronomical Practices": [
+        "For established Arabica plantations: Take up light pruning (removal of diseased, old and dried branches). If dry weather prevails, take up the pruning on receipt of blossom showers[1].",
+        "For established Robusta plantations: Provide blossom irrigation during 2nd fortnight of February @ 38-40 mm (1.5 inches) to ensure proper and uniform flowering[1].",
+        "Polybag (basket) nursery: Use polybags of size 22.5 x 15 cm (9\"x 6\") with 150-gauge thickness with 10-12 holes (3 mm hole size). Fill with nursery mixture (Forest soil/Farm Yard Manure: Compost: Sand @ 6:2:1 ratio) and arrange in rows (10 bags/row). Transplant seedlings at button stage (45 days after sowing), nip off tap root, and water daily[1].",
+        "For young plants: Initiate land preparation for new planting, provide hutting to prevent sun scorching, irrigate @ 4-5 litres per plant per week, apply 20:20:0:13 @ 20-30 g per plant[1]."
+      ],
+      "Soil Sampling": [
+        "Each sample represents 2 ha, collect from middle of 4 plants, dig 22 cm hole, mix from 20 spots, quarter to 500g[1].",
+        "Do's: Collect after harvesting (January-May), label properly. Don'ts: Avoid rainy season, fertilizer bags, recently limed areas[1].",
+        "On-spot mobile soil testing campaign available; contact for details[1]."
+      ],
+      "Soil Acidity Management": [
+        "Test soil every 2-3 years, apply lime if pH below 6.1. Use Agricultural Lime or Dolomite with 80%+ neutralization value. Ideal application: November-May (SW monsoon areas)[1]."
+      ],
+      "Pest Management": [
+        "Coffee Berry Borer: Use picking mats, install Broca traps (10/acre)[1].",
+        "Mealybug in Robusta: Release Leptomastix dactylopii (10,000/acre), remove/destroy ant nests[1].",
+        "Shot Hole Borer: Install traps with Xycom lure (12/acre)[1]."
+      ],
+      "Disease Management": [
+        "Yellowing/wilting/death: Suspect root disease; uproot affected plants, isolate with trenches, apply lime, drench propiconazole 25% EC @2 ml/L, apply Trichoderma enriched compost[1].",
+        "Coffee Leaf Rust: Spray hexaconazole 5% EC @400 ml/200L[1]."
+      ],
+      "Post-Harvest Management": [
+        "Wet method: Pick ripe fruits, pulp within 6 hours, separate inferiors, ferment optimally, soak 6-8 hours, dry to 10% moisture[1].",
+        "Dry method: Pick when 90% ripe, sort, dry to 11-12% moisture, store properly[1].",
+        "Moisture standards: Arabica Parchment 10% (15.5 kg/40L), etc.[1]."
+      ]
+    },
+    "March": {
+      "Cultural Practices Summary": [
+        "Complete blossom irrigation for Robusta @38-40 mm/acre before 2nd fortnight of March if not done[3].",
+        "Complete light pruning in Arabica and initiate in Robusta 1 week after harvest[3].",
+        "Collect soil samples for lime & fertilizer recommendation[3].",
+        "Correct soil pH by applying lime based on soil test values[3].",
+        "Complete tracing and disposal of coffee white stem borer infested plants in Arabica before end of March[3].",
+        "Install Broca traps (10/acre) if gleanings not removed[3].",
+        "Drench Imidacloprid 17.8 SL @120 ml/200L near roots for root mealybug[3].",
+        "Release Leptomastix dactylopii (5,000-10,000/acre) for shoot mealybugs[3].",
+        "Spray hexaconazole 5% EC @400 ml/200L after summer showers for leaf rust[3].",
+        "Drench nursery with carbendazim or mancozeb for collar rot[3].",
+        "Complete harvesting and processing of Robusta, collect gleanings[3]."
+      ],
+      "Nursery Practices": [
+        "Transplant button stage seedlings into polybags[3]."
+      ],
+      "New Clearings": ["Provide irrigation and hutting for young plants[3]."],
+      "Agronomical Practices": [
+        "Provide backing irrigation for Robusta @25 mm within 15-20 days after blossom[3].",
+        "Complete light pruning in Arabica, initiate in Robusta[3].",
+        "Fire path cleaning to avoid forest fire[3].",
+        "Blossom/backing irrigation options based on water availability[3].",
+        "Foliar nutrient spray if no backing irrigation[3].",
+        "Line marking and pit opening for replanting/new planting[3].",
+        "Hutting, mulching, watering for young plants[3].",
+        "Transplant button stage seedlings to polybags, irrigate daily[3]."
+      ],
+      "Soil Sampling": [
+        "Similar to February: Represent 2 ha, collect/mix properly[3].",
+        "On-spot mobile soil testing available[3]."
+      ],
+      "Soil Acidity and Nutrient Management": [
+        "Apply lime if pH <6.1, test every 2-3 years, use Agricultural Lime/Dolomite[3].",
+        "Apply water-soluble fertilizers during backing, based on soil tests[3].",
+        "Foliar nutrient spray for fruit retention[3]."
+      ],
+      "Pest Management": [
+        "Coffee Berry Borer: Collect gleanings, install Broca traps[3].",
+        "White Stem Borer: Tracing/uprooting/disposal by end March, scrub bark, apply 10% lime, wrap less infested plants[3].",
+        "Mealybug: Drench for root, release parasitoids for shoot, remove ant nests[3]."
+      ],
+      "Disease Management": [
+        "Coffee Leaf Rust: Spray hexaconazole after summer showers[3].",
+        "Collar Rot: Remove infected seedlings, drench with fungicide, avoid excess watering[3]."
+      ],
+      "Post-Harvest Management": [
+        "Store processed coffees in clean bags on wooden dunnage, away from walls, not beyond May[3].",
+        "Test effluent BOD before irrigation (around 100 ppm)[3]."
+      ]
+    },
+    "April": {
+      "Cultural Practices Summary": [
+        "Collar pruning on stem borer affected plants[2].",
+        "Install Broca traps (10/acre) for coffee berry borer[2].",
+        "Drench Imidacloprid 17.8 SL @120 ml/200L for root mealybug in new clearings[2].",
+        "Take up light/hard pruning for yielding plants, collar/rejuvenation for old/unhealthy[2].",
+        "Apply Bordeaux paste 10% on cut surfaces[2].",
+        "Apply compost/FYM @5kg/plant if soil moisture sufficient[2]."
+      ],
+      "Nursery Practices": [
+        "Transplant 'Topee' stage seedlings to polybags, drench fungicide for collar rot[2]."
+      ],
+      "New Clearings": ["Take up line marking and opening of pits[2]."],
+      "Agronomical Practices": [
+        "Continue pruning in Arabica, complete in Robusta[2].",
+        "Ensure soil moisture before pruning[2].",
+        "Hard pruning if damaged, collar/rejuvenation for unproductive bushes[2].",
+        "Apply FYM @5kg/plant, renovate cradle pits[2].",
+        "Dip seedlings in cow dung slurry before transplanting[2].",
+        "Hutting, mulching, watering for young plants, apply FYM @2kg/plant[2].",
+        "Initiate compost/vermicompost preparations[2].",
+        "Line marking, pit opening (45x45x45 cm), expose to sunlight[2].",
+        "Planting designs: Various spacings for Arabica/Robusta[2]."
+      ],
+      "Soil Sampling and Nutrient Management": [
+        "Collect samples as per method (2 ha representation)[2].",
+        "Liming if pH <6.1, apply Agricultural Lime/Dolomite once in 2-3 years[2].",
+        "Apply water-soluble fertilizers, especially phosphorus[2].",
+        "Fertilizer combinations for Robusta (e.g., Urea/DAP/MOP)[2].",
+        "Foliar nutrient spray for fruit retention[2]."
+      ],
+      "Top Grafting": [
+        "Selection of elite mother plants (November-February), collar pruning (March-May)[2].",
+        "Apply Bordeaux paste on cuts[2]."
+      ],
+      "Pest Management": [
+        "White Stem Borer in Arabica: Collar prune if not to roots, wrap with non-woven fabric, install pheromone traps, spray Phenthoate 50 EC[2].",
+        "Coffee Berry Borer: Retain Broca traps if gleanings not removed[2].",
+        "Mealybug in Robusta: Release parasitoids, spray Imidacloprid if severe, drench for roots, remove ant nests[2]."
+      ],
+      "Disease Management": [
+        "Collar Rot: Avoid excess watering, remove infected, drench carbendazim/mancozeb[2]."
+      ],
+      "Post-Harvest Management": [
+        "Store in clean bags on dunnage, not beyond May[2].",
+        "Test effluent BOD for irrigation[2]."
+      ]
+    },
+    "May": {
+      "Cultural Practices Summary": [
+        "Renovate cradle pits / trenches / drainages[2].",
+        "Carry out pre-monsoon manuring[2].",
+        "Install cross vane pheromone traps (10 nos. per acre) to trap Coffee White Stem Borer (CWSB) adults[2].",
+        "Install Brocatraps in the field (10 nos. per acre) to control Berry Borer incidence where gleanings were not cleaned[2].",
+        "Spray 0.5% Bordeaux mixture to manage coffee leaf rust disease[2].",
+        "In endemic blocks, spray 1% alkaline Bordeaux mixture with adequate coverage on both the surface of the leaves and developing berries just before the onset of monsoon, to prevent monsoon rot disease incidence[2].",
+        "For organic coffee block, apply compost/organic manure at the rate of 2 - 3 kg /plant (young plants)[2]."
+      ],
+      "Nursery Practices": [
+        "Apply/drench cow dung supernatant slurry for coffee seedlings in the polybag nursery[2].",
+        "Spray fungicide propiconazole 25 EC @ 0.8 ml/litre followed by mancozeb 75 WP @ 2 g/litre alternatively at 20-25 days interval in Myrothecium leaf spot[2]."
+      ],
+      "New Clearings": [
+        "Complete opening and closing of pits for planting of coffee seedlings[2]."
+      ],
+      "Agronomical Practices": [
+        "Complete pruning in Arabica coffee[2].",
+        "Complete weeding before pre-monsoon manuring to avoid absorption of nutrients by the weeds[2].",
+        "Renovate cradle pits/trenches and clear drainage channels[2].",
+        "Apply/drench cow dung supernatant slurry for coffee seedlings in nursery (once in a month)[2].",
+        "Continue watering for young plants (4-5 litres per plant per week)[2].",
+        "Apply Ammophos fertilizer (20:20:0:13) at 20-30 g per plant for young coffee plants[2].",
+        "Apply FYM/compost at 2 kg per plant for young coffee plants[2].",
+        "After exposing pits for sufficient days (15 days), close pits by filling with FYM/compost and Rock Phosphate (20-30 g) along with top soil[2].",
+        "Shade lopping should not be undertaken if dry weather and lack of moisture prevails[2].",
+        "Identification of suitable vacant spaces to plant other trees/fruits for shade and income, prepare for raising seedlings and opening pits[2].",
+        "Vermicomposting using pulp waste, pruning twigs, and other residues[2].",
+        "Irrigate 12 to 15 mm where sufficient rain not received[2]."
+      ],
+      "Soil Sampling": [
+        "Each sample represents 2 ha, collect from middle of 4 plants, dig 22 cm hole, mix from 20 spots, quarter to 500g[2].",
+        "Lime if soil pH below 6.1; apply Agricultural Lime/Dolomite once in 2-3 years alternately[2].",
+        "Analyse liming materials for purity before application[2].",
+        "Apply lime when sufficient soil moisture exists[2].",
+        "Allow minimum 30 to 45 days gap between liming and fertilizer application[2]."
+      ],
+      "Nutrient Management": [
+        "Apply fertilizer quantity and type based on soil test[2].",
+        "Fertilizer doses for Arabica and Robusta per acre based on yield[2].",
+        "Foliar spray of nutrient mixture and growth regulators during 2nd or 3rd week of May to support growing crop and minimize mid-monsoon fruit drop[2].",
+        "Pre-monsoon fertilizer application guidelines for young coffee plants in pre-bearing stage[2].",
+        "Apply water-soluble fertilizers, especially phosphorus, for good fruit set and retention[2].",
+        "In irrigated plots, fertilizers can be applied before irrigation and mulched properly[2]."
+      ],
+      "Pest Management": [
+        "Install cross vane pheromone traps (10/acre) for Coffee White Stem Borer[2].",
+        "Spray or swab Phenthoate 50 EC @ 400 ml per 200 litres water with wetting agent on main stem and thick primaries if not done previously[2].",
+        "Release parasitoids Leptomastix dactylopii (5000-10000/acre in splits) for mealybug control[2].",
+        "Spray Imidacloprid 17.8 SL for severe mealybug infestation[2].",
+        "Drench Imidacloprid 17.8 SL for root mealybugs[2].",
+        "Remove ant nests to reduce mealybug spread[2].",
+        "Retain Brocatraps if gleanings not removed[2]."
+      ],
+      "Disease Management": [
+        "Apply 0.5% freshly prepared alkaline Bordeaux mixture before South-West monsoon[2].",
+        "For rust symptoms present, apply systemic fungicides Hexaconazole or Tebuconazole[2].",
+        "Manage monsoon rot diseases with cultural and chemical methods[2].",
+        "Spray fungicides propiconazole and mancozeb for Myrothecium leaf spot[2].",
+        "Uproot and destroy severely affected bushes for Coffee Trunk Canker[2].",
+        "Ensure proper drainage to prevent water stagnation[2]."
+      ],
+      "Post-Harvest Management": [
+        "Store raw/uncured coffees in clean gunny bags in well-ventilated godown on wooden dunnage[2].",
+        "Arrange coffee bags at least 1 foot from walls to avoid moisture migration[2].",
+        "Do not stack coffee bags up to roof top; maintain air space above bags[2].",
+        "Avoid long duration estate level storage beyond May due to wet monsoon conditions[2].",
+        "Test effluent BOD before irrigation; ideal ~100 ppm[2]."
+      ]
+    },
+    "June": {
+      "Cultural Practices Summary": [
+        "Take up handling, centering and de-suckering[1].",
+        "Take up supply planting in the necessary patches[1].",
+        "Renovate cradle pits & trenches[1].",
+        "Complete weeding prior to application of pre-monsoon fertilizer and on-set of rains[1].",
+        "Regulate temporary shade tree (Dadap)[1].",
+        "Take up planting of temporary & permanent shade trees in vacant area[1].",
+        "Complete pre-monsoon manuring, if not done during previous month[1].",
+        "Apply systemic fungicide viz., Hexaconazole 5 EC @ 2 ml/L or hexaconazole 75 WG @ 30g/200L or Tebuconazole 38.39% SC @ 200ml/200L for leaf rust management[1]."
+      ],
+      "Nursery Practices": [
+        "Remove shade net depending on the weather condition[1].",
+        "Application/drenching of cow dung supernatant slurry for coffee seedlings in the polybag nursery (once in a month is advisable)[1].",
+        "Spray fungicide propiconazole 25 EC @ 0.8 ml/liter to the leaf spot and stem necrosis infected seedlings in the nursery[1]."
+      ],
+      "New Clearings": ["Plant dadap stakes and seedlings of shade trees[1]."],
+      "Agronomical Practices": [
+        "Take up handling, centering and de-suckering practices[1].",
+        "Carry out the weeding before the monsoon showers[1].",
+        "Take up supply planting, where ever necessary[1].",
+        "Complete renovation of cradle pits/trenches and clearing of drains[1].",
+        "Handling operation to thin out the new flush to a desired level[1].",
+        "Centering to remove new flush arising within 10 to 15 cm radius of the main stem[1].",
+        "Desuckering to remove all suckers on the main stem periodically[1].",
+        "Ideal pit size for coffee planting: 45 x 45 x 45 cm (L x B x H)[1].",
+        "Incorporate compost/FYM @ 2-3 kg + Rock Phosphate @ 20-30 g per pit[1].",
+        "Sixteen to eighteen months old seedlings can be planted during June - July[1].",
+        "If weed growth is seen, slash weeding is suggested; sow cover crops like cowpea or horsegram in new clearings[1].",
+        "Apply/drench cow dung supernatant slurry for coffee seedlings in the polybag nursery (once in a month)[1].",
+        "Remove shade net depending on weather conditions[1].",
+        "Plant different diversified multipurpose (Shade & Yield) trees sp. and in new clearings plant tubers crops like Yam or Sweet Potato or other suitable sp. during the pre-bearing stage[1].",
+        "Suggested to lift the permanent shade up to 35 to 40 ft from the ground level[1].",
+        "Clear fallen leaves and branches from the coffee canopy to prevent moisture buildup and reduce disease risk[1].",
+        "Complete centering and de-suckering of coffee plants to improve air flow and light penetration[1].",
+        "Clean and renovate cradle pits and drainage channels to allow smooth drainage of excess water[1].",
+        "Remove mulch from the base of coffee plants and heap it at the centre of four plants to prevent water stagnation[1].",
+        "Pre-monsoon foliar application of 50 ml Planofix in 200 litres of water may be taken up if not completed in the month of May[1]."
+      ],
+      "Nutrient Management": [
+        "The quantity and type of fertiliser should be applied based on soil test values[1].",
+        "Pre-monsoon fertilizer recommendations: Urea (kg), SSP (kg), MOP (kg) per plant for Arabica (400 kg per acre 5 x 5 ft.): 65, 150, 50, 150[1].",
+        "Pre-monsoon fertilizer recommendations: Urea (kg), SSP (kg), MOP (kg) per plant for Arabica (600 kg per acre 5 x 5 ft.): 87, 194, 67, 200[1].",
+        "Pre-monsoon fertilizer recommendations: Urea (kg), SSP (kg), MOP (kg) per plant for Robusta (500 kg per acre 8 x 8 ft.) – 1st round: 75, 175, 59, 400[1].",
+        "Pre-monsoon fertilizer recommendations: Urea (kg), SSP (kg), MOP (kg) per plant for Robusta (700 kg per acre 8 x 8 ft.) – 2nd round: 65, 144, 50, 350[1].",
+        "Pre-monsoon manuring for young coffee plants: Apply NPK complex fertilizers such as 20:20:0:13 (or) 19:19:19 (or) 17:17:17 at the following rates - For Arabica: 50 to 75 g/plant; For Robusta: 100 to 125 g/plant[1].",
+        "Before application of fertilizers: Complete weeding and desuckering, sweep mulch towards base, disturb soil with fork, spread fertilizer uniformly, rework soil, cover with mulch[1].",
+        "In steep slopes, apply fertilizers in semi-arch or horse shoe shaped on the elevated side around the stem[1]."
+      ],
+      "Clonal Propagation Techniques in Robusta Coffee": [
+        "Clonal propagation is recommended for Robusta coffee by means of stem cuttings for true to type plants, pest and disease free superior performing rooted cutting[1].",
+        "Preparation of Stem Cuttings and Planting: Collect suckers from identified mother plants, make single node cutting, immerse in Bavistin solution, dip in IBA or commercial rooters, plant in nursery bags[1].",
+        "Hardening of rooted cuttings: In two months sprouting, three months roots develop, arrange under pendal shade for hardening, ready to plant with 3-4 pairs of leaves[1]."
+      ],
+      "Shade Management": [
+        "Regulate shade by pruning lower branches of permanent shade trees up to 30-40 feet[1].",
+        "Lop temporary shade trees like Dadap to improve air circulation and filtered light[1]."
+      ],
+      "Pest Management": [
+        "Coffee Berry Borer: Retain brocatrap in the field till rain starts[1].",
+        "Root Grubs: If root grub larvae is noticed in the soil in new clearings, collect and destroy it immediately[1]."
+      ],
+      "Disease Management": [
+        "Coffee Leaf Rust (Hemileia vastatrix): Apply any effective systemic fungicide viz., Hexaconazole 5 EC @ 2 ml/L or hexaconazole 75 WG @ 30 g/200 L or tebuconazole 38.39% SC @ 200 ml/200 L of water[1].",
+        "Monsoon Rot Diseases (Black Rot, Stalk Rot): Remove dried shade tree leaves from canopy, spray tebuconazole 38.39% SC @ 200 ml/200 L with full coverage[1].",
+        "Nursery Disease management: Spray fungicide propiconazole 25 EC @ 0.8 ml/liter for Myrothecium leaf spot and stem necrosis[1].",
+        "Coffee Trunk Canker: Uproot and destroy severely affected bushes, ensure proper drainage around root zone[1]."
+      ]
+    },
+    "July": {
+      "Cultural Practices Summary": [
+        "Handling, centering and de-suckering should be done[3].",
+        "Take up supply planting of coffee in the vacant patches[3].",
+        "Renovation of trenches to be done on a need basis to minimize soil saturation[3].",
+        "Slash weeding is recommended, if weeds growth is more[3].",
+        "Every robusta planter should adopt top working for consolidation of robusta plots[3].",
+        "Plant temporary and permanent shade trees in necessary areas[3].",
+        "Collect and destruct of root grub larvae, if noticed[3].",
+        "Spray systemic fungicide Tebuconazole 38.39% SC @ 200 ml/200 l along with Planofix @ 50 ml and any wetting agent by covering all the plant parts to minimize the development of black rot and stalk rot diseases[3]."
+      ],
+      "Nursery Practices": [
+        "Remove overhead pendal shade and ensure proper drainage[3].",
+        "Advised to apply/drenching of cow dung supernatant slurry for coffee seedlings in the polybag nursery[3].",
+        "Protect the seedlings from leaf spot and stem necrosis incidence by erecting poly house tunnels over the secondary bed[3]."
+      ],
+      "Agronomical Practices": [
+        "It is advised to take up handling, centering and desuckering[3].",
+        "Carry out the slash weeding[3].",
+        "Supply planting should be completed in vacant patches[3].",
+        "Planting of temporary & permanent shade trees in necessary areas[3].",
+        "The Dadap should be lopped[3].",
+        "After the main pruning, handling operations are recommended primarily to thin out the new flush to a proper level based on the plants growth habit[3].",
+        "The semi-erect growing (gormandizers) and criss-cross, inward growing (towards main stem) branches should be removed at handling time, irrespective of their vigor[3].",
+        "All new flush that occurs within a 10-15cm radius of the main stem should be removed at the time of handling[3].",
+        "This practice allow the light to penetrate up to the lower canopy branches and promote the flower bud initiation in large numbers from the next month onwards[3].",
+        "Avoid leaving the center of the bushes too open (more than 30 cm) in locations where stem borer infestation is prominent[3].",
+        "Remove all new suckers emerged on main stem as new flushes are developing during this month[3].",
+        "Remove the shot hole borer affected branches only in the Robusta plantation[3].",
+        "Dig the pits with a size of 45 x 45 x 45 cm (L x B x H) for supply planting[3].",
+        "Apply compost/FYM @ 2-3 kg along with Rock Phosphate @ 20-30 g per pit[3].",
+        "16 to 18 months (plants with root ball) old seedlings can be planted during the beginning of this month[3].",
+        "If the growth of the weeds is more, slash weeding is suggested and in the new clearing areas, cover crops like cowpea or horse gram or other leguminous crops can be sown[3].",
+        "Apply/drench cow dung supernatant slurry for coffee seedlings in the polybag nursery[3].",
+        "Remove shade net depending on weather conditions[3].",
+        "Plant diversified multipurpose shade trees sp. and tubers crops like Yam or Sweet Potato[3].",
+        "Receipt of high rainfall of 20 to 25 inches during June, it is very much necessary to undertake de-mulching around the plants to minimize the soil saturation and aeration to the root zone especially to robusta plants[3].",
+        "Initiate the planting of Dadap stakes and seedlings of shade trees[3]."
+      ],
+      "Nutrient Management": [
+        "The quantity and type of fertiliser should be applied based on soil test values[3].",
+        "Pre-monsoon fertilizer general recommendations: Urea, SSP, MOP per plant for Arabica (400 kg cc per acre – 5 x 5 ft.): 65 kg (1.5 bag), 150 kg (3 bags), 50 kg (1 bag), 150 g[3].",
+        "Pre-monsoon fertilizer general recommendations: Urea, SSP, MOP per plant for Arabica (600 kg cc per acre – 5 x 5 ft.): 87 kg (2 bags), 194 kg (4 bags), 67 kg (1.5 bag), 200 g[3].",
+        "Pre-monsoon fertilizer general recommendations: Urea, SSP, MOP per plant for Robusta (500 kg cc per acre – 8 x 8 ft.) – who are applying 1st round manuring: 70 kg (1.5 bag), 175 kg (3.5 bags), 50 kg (1 bag), 350 g – 400 g[3].",
+        "Pre-monsoon fertilizer general recommendations: Urea, SSP, MOP per plant for Robusta (700 kg cc per acre – 8 x 8 ft.) – who are applying 2nd round manuring: 67 kg (1.5 bag), 125 kg (3 bags), 50 kg (1 bag), 350 g[3].",
+        "Pre-monsoon manuring for young coffee plants in pre-bearing stage: Apply NPK complex fertilizers such as 20:20:0:13 (or) 19:19:19 (or) 17:17:17 at the following rates - For Arabica: 50 to 75 g/plant; For Robusta: 100 to 125 g/plant[3].",
+        "Before application of fertilizers: Weeding and desuckering should be completed[3].",
+        "The mulch below the coffee plant is swept towards its base. Using a fork, the soil around one and half to two feet away from the main stem is gently need to disturbed[3].",
+        "The fertilizer is uniformly spread in a broad circular band within the designated area (below the bushes)[3].",
+        "The soil is carefully reworked after the fertilizer application and making sure it is well mixed[3].",
+        "Finally the area is covered with mulch creating a protective layer[3].",
+        "In areas with steep slopes a modification of this method is followed - by applying the fertilizers in the form of a semi-arch or horse shoe shaped on the elevated side (below the bushes)[3].",
+        "If lime applied in the field, then keep a gap of 20 – 30 days between – lime and fertilizer application for better nutrient uptake[3].",
+        "Apply mid monsoon fertilizers: either 1 bag of urea + ½ bag of muriate of potash (MoP) or 2 bags of ammonium sulphate per acre during break in the monsoon. This prevent berry drop, supports berry development and provides essential nitrogen to the plants[3]."
+      ],
+      "Top Grafting/Top Working/Field Grafting in Robusta Coffee": [
+        "Top grafting or field grafting is an ideal method to convert old unproductive, off type coffee plants into productive ones by grafting from a desirable scion, taken from a high yielding superior plant[3].",
+        "Collar pruning of old unproductive plants should be preferably taken up and completed during March April by stumping the unproductive plants at ¾ ft height from the ground level[3].",
+        "The plants should be stumped at an angle of 45° facing North - East direction (to avoid afternoon sun scorch), after receiving at least 2-3 inches of blossom showers[3].",
+        "10 % Bordeaux paste (100 g CuSO4 + 100 g Lime in one litre of water) should be applied on the cut surface to avoid fungal infection[3].",
+        "Two to three suckers should be allowed to grow for three to four months from the collar-pruned stump till they reach desired thickness (pencil thickness)[3].",
+        "Simultaneously suckers should also be allowed on the elite mother plants identified for scion collection[3].",
+        "July and August are the ideal months to take up grafting on the suckers produced on the unproductive collar pruned stumps[3].",
+        "Select two healthy suckers on either side of the collar pruned stump for grafting purpose, and remove rest of the suckers[3].",
+        "The single node cutting prepared from suckers of elite high yielding mother plants[3].",
+        "Wedge cleft method can be used for top grafting and is found very successful[3].",
+        "Prepare the stock by cutting the selected suckers on the stumped plants below the first node (from bottom) and make a vertical cleft of about 3/4 inch to 1 inch downwards[3].",
+        "Simultaneously prepare the single node cuttings of desired plant and make a wedge-shaped scion at the base of the cuttings by making two slant cuts[3].",
+        "Insert the wedge-shaped end of scion into the cleft portion of the rootstock carefully and tie the grafted portion with a polythene strip[3].",
+        "Spray graft with 0.5% Bavistin (1g in 1liter of water) and cover with an inverted polythene bag, tied loosely at the base of the graft[3].",
+        "The union of stock and scion usually takes place within 1- 2 months depending on the weather conditions[3].",
+        "Remove the polythene cover after emergence of 1st pair of leaves and the polythene strips after the emergence of 2nd pair of leaves[3]."
+      ],
+      "Shade Management": [
+        "Carry out Dadap lopping in such a manner that it do not give scope for death of the Dadap tree[3].",
+        "In open conditions and at newly establishing blocks, please go for planting of both temporary and permanent shade trees at suitable distances[3].",
+        "Clean and heap the organic wastes in the center of the four coffee plants and do not mulch around the stem which may leads wet feet condition[3].",
+        "Clean the drainage channels in the estate and made the provision for easy movement of the rain water and connect these sub- drains to the main drain which is connected the water reservoir[3]."
+      ],
+      "Pest Management": [
+        "Collect and destroy Root grub larvae if noticed in the soil (in new clearings)[3].",
+        "Growers can contact the Division of Entomology, Central Coffee Research Institute, Chikkamagaluru and Coffee Research Sub Station, Chettalli, Kodagu for training on mass production of Beauveria bassiana culture[3]."
+      ],
+      "Disease Management": [
+        "In the present situation, black rot and stalk rot diseases are very commonly observed in most of the coffee plantations[3].",
+        "If the disease is noticed, adopt phyto-sanitary measures through collection and destruction of disease infected leaves and berries[3].",
+        "Then take up the spray of systemic fungicide tebuconazole 38.39% SC @200 ml/200 L along with Planofix @50 ml and any wetting agent by covering all the plant parts to minimize the development of the disease[3].",
+        "In the nursery, leaf spot and stem necrosis caused by Myrothecium roridum can be effectively managed by erecting rainout shelters[3].",
+        "In case, if the disease is observed, collect and destroy the disease infected fallen leaves and spray fungicide propiconazole 25% EC @ 0.8 ml/L followed by mancozeb 75 WP @ 2 g/L by covering all the parts of seedlings alternatively at 20-25 days interval to minimize the disease spread[3]."
+      ],
+      "Revised NPOP Sensitization (8th Edition - 2024)": [
+        "The National Programme for Organic Production (NPOP) provides an institutional mechanism for implementation of the National Standards for Organic Production (NSOP), certification system, criteria, and procedure for accreditation of Certification Bodies, norms for the operation of certification bodies, the National (India Organic) Logo and the regulations governing its use[3].",
+        "Features of NPOP: Prescribes Standards, Accreditation Procedures and Certification Systems for Export of Organic Products; Grower Group Certification for Small Farmers; Internationally Recognized Quality Assurance System for Organic Production; TraceNet is Web-Based Traceability System for Export of Organic Products; Crop Production Standards are Recognized by European Commission and Switzerland as Equivalent[3].",
+        "Revision of NPOP 2014: Reduction in conversion period wherein organic practices have been followed for 3 years or more; Unified India Organic Logo as organic certification mark[3]."
+      ]
+    },
+    "August": {
+      "Cultural Practices Summary": [
+        "Complete handling, centering and desuckering operation[1].",
+        "Continue slash weeding[1].",
+        "Take up regulation of Dadap[1].",
+        "Heap the mulch between four plants to avoid water stagnation and wet feet condition[1].",
+        "Apply mid-monsoon fertilizers during clear break in monsoon[1].",
+        "Take up top grafting in unproductive Robusta plantations[1].",
+        "Adopt the cultural and chemical measures to contain the spread and development of the monsoon rot diseases and to minimize the crop loss[1].",
+        "Spray Beauveria bassiana 40 g per 200 l of water with 200 ml of any wetting agent during clear break in the monsoon to manage Coffee Berry Borer infestation[1]."
+      ],
+      "Nursery Practices": [
+        "Remove overhead pendal during heavy rain and provide proper drainage[1]."
+      ],
+      "New Clearings": ["Planting of coffee seedlings in the main field[1]."],
+      "Agronomical Practices": [
+        "Complete handling, centering and desuckering operation[1].",
+        "At the time of handling, advised to remove the criss-cross, inward growing branches (towards main stem) and semi erect growing (gormandizers) branches[1].",
+        "At the time of handling itself, remove all the new flush arising within 10 to 15 cm radius of the main stem[1].",
+        "This practice allow the light to penetrate up to the lower canopy branches and promote the flower bud initiation in large numbers from next month onwards[1].",
+        "Avoid too much opening of centre of the bushes (more than 30 cm) in stem borer endemic areas as it encourages the stem borer attack in main stem of coffee[1].",
+        "Remove all new suckers emerged on main stem as new flushes are developing during this month[1].",
+        "Remove the shot hole borer affected branches only in the Robusta plantation[1].",
+        "Dig the pit size of 45 x 45 x 45 cm (L x B x H) and apply compost/FYM @ 2-3 kg along with Rock Phosphate @ 150 to 200 g per pit[1].",
+        "In case of new planting, use 6-8 months old seedlings[1].",
+        "Advised to adopt hedge row planting of 6 x 4 ft or 6 x 5 ft or 8 x 4 ft for Arabica & 10 x 8 ft or 12 x 6 ft for Robusta which facilitates the use of small farm machineries[1].",
+        "Apply the mulch and place the cross stakes to protect the young coffee plants from wind damage[1].",
+        "Provide hutting to the young coffee plants to protect from grazing animals and monkey menace[1].",
+        "Continue slash weeding - Keep the weeds away from the new planting site as they compete for applied fertilizers with the coffee plants[1].",
+        "Lopping of Dadap should be done[1].",
+        "Take up planting of shade tree seedlings, if weather permits[1].",
+        "The mulch below the canopy should be heaped in centre of four plants to provide better root aeration[1].",
+        "Provide good drainage system i.e., cleaning of cradle pits and renovation of trenches to reduce stagnation of water around root zone[1].",
+        "Collecting excess water in catch pits increases the water table in the ground and harvesting of excess runoff water from the field[1]."
+      ],
+      "Nutrient Management": [
+        "Application of 1 bag urea or 2 bags of Ammonium sulphate along with 25 kg of muriate of potash per acre could be done during clear break in monsoon[1]."
+      ],
+      "Pest Management": [
+        "Coffee Berry Borer infestation if noticed, spray Beauveria bassiana, 40 g per 200 l of water with 200 ml of any wetting agent (minimum spore count of 107 conidia/ml for effectiveness)[1].",
+        "Spray should be taken during clear break in the monsoon[1].",
+        "Growers can contact the Division of Entomology, Central Coffee Research Institute, Chikkamangaluru and Coffee Research Sub Station, Chettalli, Kodagu for Beauveria bassiana culture[1]."
+      ],
+      "Disease Management": [
+        "In the nursery, leaf spot and stem necrosis caused by Myrothecium roridum can be effectively managed by erecting rainout shelters[1].",
+        "In case, if the disease is observed, collect and destroy the disease infected fallen leaves and spray fungicide Propiconazole 25% EC @ 0.8 ml/1 followed by Mancozeb 75 WP @ 2 g/l by covering all parts of seedlings alternatively at 20-25 days interval to minimize the disease spread[1].",
+        "Monsoon rot diseases like, black rot and stalk rot of berries are confined only to monsoon season[1].",
+        "Provide good drainage system i.e., cleaning of cradle pits and renovation of trenches to reduce stagnation of water around root zone[1].",
+        "The mulch below the canopy should be heaped in centre of four plants to provide better root aeration[1].",
+        "Centering and handling of the bushes (remove crisscross branches, dead & dry branches, suckers and dried leaves of the shade trees fallen on the canopy of the bush for proper aeration)[1].",
+        "During clear break in monsoon, application of one bag of urea or two bags of ammonium sulphate and 25 kg of MOP per acre is highly beneficial as it replenishes the nitrogen supply, reduce leaf & berry drop and promotes vigorous vegetative growth[1].",
+        "Collect the infected leaves & berries and bury them in soil as the residues of the infected plant parts serves as source of inoculum for the next season[1].",
+        "After removal of infected leaves and berries (phyto-sanitation), spray Tebuconazole 38.39% SC @ 200 ml in 200 1 of water along with 50 ml Planofix and any wetting agent with proper coverage of developing berries, lower & upper surface of leaves and young branches during clear break in monsoon to minimize the disease incidence, spread and berry drop[1]."
+      ],
+      "Advisory on Coffee Based Intercrops - Black Pepper": [
+        "New planting and replanting in the main field may be continued[1].",
+        "Proper drainage facility may be provided to avoid water stagnation around the base of the vine[1].",
+        "Tie the growing vines with the standard trees for better vine growth[1].",
+        "Shade regulation may be taken care[1].",
+        "Half dose of recommended fertilizers (Urea 55 kg, Rock Phosphate 140 kg and MoP125 kg /ha) may be applied during the second fortnight of August month[1].",
+        "Bio fertilizers Azospirillum, Phosphobacteria, Potash Solubilising Bacteria and VAM @ 50 g each along with 2 kg vermicompost or 10 kg FYM may be applied per vine15-20 days after fertilizer application if not applied in the previous months[1].",
+        "Top shoot borer attack in young plantations can be controlled by spraying quinolphos 0.05 per cent (200 ml./100 l of water). This spray can also help in controlling pollu beetle incidences[1].",
+        "Spray pepper micronutrient mixture @ 5 g per l of water[1].",
+        "Against incidence of foot-rot disease, spray one per cent Bordeaux mixture. In severe situations, drench 0.2 per cent COC (200 grams in 100 liters water) at the plant base @ 5 l per vine apart from Bordeaux mixture spraying[1].",
+        "Maintain rooted cuttings in poly bag till they are taken to the main field for planting[1].",
+        "Remove fungal infected vines and spray with Bordeaux mixture one per cent or Bavistin 0.2 per cent, if not done during the previous month[1].",
+        "As a precautionary measure to avoid phytophthora infection drench with 0.2 per cent copper oxy chloride[1].",
+        "Runners may be collected from the selected mother plants and two node runner cuttings may be planted in the poly bag nursery for propagation[1]."
+      ],
+      "Services Offered by the Board": [
+        "Hands on training will be provided on need based. Interested planters may contact Training Section, Central Coffee Research Institute (CCRI) (nodalofficertrainingccri@gmail.com Mobile No.: 9591389534) for further details[1].",
+        "Coffee Board has initiated Coffee Krishi Taranga (CKT) in all the regional languages. Growers can contact for information related to coffee cultivation aspects, subsidy schemes, and market price etc. to the given toll free nos. 080-37685000 (Karnataka), 080-37685001 (Kerala), 080-37685002 (Tamil Nadu) and 080-37685003 (Andhra Pradesh)[1].",
+        "Coffee Board provides service of visiting estates on need basis of growers and render on-spot technical advisory. Growers may write to drccri2022@gmail.com for the visit of Scientists to their estate for technical advisory purpose[1].",
+        "To avail Beauveria bassiana starter culture, planters may contact Division of Entomology, Central Coffee Research Institute (CCRI), Chikkamagaluru and Coffee Research Sub Station (CRSS), Chettalli, Kodagu. The cost of culture is Rs. 80/- for small growers (less than 25 acres) and Rs. 100/- for large growers (more than 25 acres)[1]."
+      ]
+    },
+    "September": {
+      "Cultural Practices Summary": [
+        "Take up planting of coffee seedlings and shade trees[4].",
+        "Apply post monsoon manure[4].",
+        "Take up top grafting in unproductive Robusta plantations[4].",
+        "Complete tracing/uprooting of white stem borer infested coffee plants and dispose immediately by burning or immerse the stems in the water for 10 days to kill the insect[4].",
+        "Install Brocatraps (10 per acre) in the main field to trap adult beetles[4].",
+        "Complete tracing of shot hole borer (SHB) infested twigs and install Xycom traps (12 per acre) in the main field to trap adult SHB[4].",
+        "Take up post-monsoon spray of any one of the systemic fungicides hexaconazole 5% EC @ 400 ml/200 litres or propiconazole 25% EC @ 200 ml/200 litres or hexaconazole 75% WG @ 30 g/200 litres or tebuconazole 38.39% SC @ 200 ml/200 litres of water along with 100 ml wetting agent to minimize the leaf rust disease[4]."
+      ],
+      "Nursery Practices": [
+        "Remove shade net/pendal gradually[4].",
+        "Spray fungicide propiconazole 25% EC @ 1 ml/litre followed by mancozeb 75 WP @ 2 g/litre by covering all the parts of seedlings, if Myrothecium leaf spot is noticed[4].",
+        "Spray tebuconazole 38.39 SC% @ 1ml/litre to reduce the brown eye spot disease incidence[4]."
+      ],
+      "Agronomical Practices": [
+        "Open the pit of 45 cm x 45 cm x 45 cm (Length x Breadth x Height)[4].",
+        "Apply compost/farmyard manure @ 1.5 - 2 kg per pit and close the pit with top-soil followed by sub-soil[4].",
+        "Apply Rock Phosphate @ 20-30 g along with Phorate or Thimet granules 10 G @ 10 g per pit[4].",
+        "Planting designs can be decided based on type of selections/varieties and slope of the area[4]."
+      ],
+      "Pest Management": [
+        "Initiate tracing/uprooting of CWSB infested plants[4].",
+        "Dispose uprooted stems immediately by burning, or immerse the stems in water for 10 days to kill the pest[4].",
+        "Plants suspected for CWSB infestation can be wrapped using non woven fabric to prevent adult emergence[4].",
+        "Install Brocatraps (10 per acre) in the field to trap adult beetles[4].",
+        "Identify SHB infested twigs, and cut the twigs below the hole and burn it immediately[4].",
+        "Install Xycom traps (12 per acre) in the field to trap adult SHB[4]."
+      ],
+      "Disease Management": [
+        "Prevalence of hot humid weather conditions after cessation of monsoon rains are favourable for the occurrence and spread of the brown eye spot disease in nurseries and young clearings[4].",
+        "Provide filtered shade using 75% poly shade net to avoid direct exposure to sun light and insect damage[4].",
+        "In the new clearings, protect the seedlings by hutting and maintain good overhead shade during dry periods[4].",
+        "If the disease is noticed, spray tebuconazole 38.39 SC% @ 1ml/litre to reduce the brown eye spot disease incidence[4].",
+        "In the nursery, if Myrothecium leaf spot is noticed spray fungicide propiconazole 25% EC @ 1 ml/litre followed by mancozeb 75 WP @ 2 g/litre by covering all the parts of seedlings alternatively at 20-25 days interval to keep the seedlings healthy[4]."
+      ],
+      "Advisory on Coffee Based Intercrops - Black Pepper": [
+        "Mother plants of the age group of 5-12 years with desirable traits may be marked for collecting runners[4].",
+        "Select the mother plants which give consistently performing better yields and are free from diseases[4].",
+        "Dig around the vines, earth up the vines and standard trees in October and November[4].",
+        "If the monsoon is prolonged, you can drench the vines with a copper oxychloride or potassium phosphonate solution @ 3 ml/litre[4].",
+        "Tie growing shoots of young vines to the standards[4].",
+        "Remove hanging shoots in older plants[4].",
+        "Two node runner shoots from selected mother vines are to be planted in the already prepared polybag nursery in mist chamber[4].",
+        "Undertake slash-weeding of the interspaces[4].",
+        "Undertake hand-weeding at the basins of the vines and mulch the basins with dry leaves[4].",
+        "Inspect and remove plants showing symptoms of phyllody and stunt diseases (viral)[4]."
+      ]
+    },
+    "October": {
+      "Cultural Practices Summary": [
+        "Take up handling, centering and desuckering when excess vegetative growth is observed[3].",
+        "Take up clean weeding[3].",
+        "Open cradle pits/staggered trenches in slopy areas[3].",
+        "Apply post-monsoon fertilizer, if not done during last month[3].",
+        "Apply 10% lime (20 kg of spray lime and 200 ml DDL Fevicol in 200 litres of water) on main stem and thick primaries to prevent egg laying of coffee white stem borer[3].",
+        "Remove and burn shot hole borer (SHB) infested twigs and install Xycom traps (12 per acre) in the field to trap adult SHB[3].",
+        "Install Broca traps (10 per acre) in the field, wherever coffee berry borer (CBB) incidence is noticed[3].",
+        "Take up post-monsoon spray of any one of the systemic fungicides hexaconazole 5% EC @ 400 ml/200 litres or propiconazole 25% EC @ 200 ml/200 litres or hexaconazole 75% WG @ 30 g/200 litres or tebuconazole 38.39% SC @ 200 ml/200 litres of water along with 100 ml wetting agent to minimize the leaf rust disease[3].",
+        "Drench the base of plants showing initial wilting symptoms with propiconazole 25% EC @ 2 ml/litre for root rot disease management[3]."
+      ],
+      "New Clearings": [
+        "Take up cover digging in the young new clearing areas (one year old planting) and scuffling (2nd and 3rd year old planting)[3].",
+        "Carry out forking, mulching and hutting around the young plants[3]."
+      ],
+      "Agronomical Practices": [
+        "Excess new flushes should be thinned out from primary and secondary branches[3].",
+        "Criss-cross, inward growing and semi-erect branches (Gormandizers) should be removed, irrespective of their vigour[3].",
+        "Remove new flushes from the main stem within 15 cm radius to facilitate proper penetration of light and aeration[3].",
+        "Do not remove the branches more than 15 cm radius from the main stem as this may lead to WSB incidence[3].",
+        "Remove all suckers on the main stem during centering operations[3].",
+        "In Robusta, remove shot hole borer affected branches and destroy by burning[3]."
+      ],
+      "Soil Moisture Conservation Measures": [
+        "It is essential to conserve soil moisture by adopting the soil moisture conservation practices such as cover digging, scuffling, forking, mulching and hutting around the young plants in new clearings[3].",
+        "Cover digging: Deep digging of soil upto 15-18 inches (30 - 45 cm) in young new clearing areas[3].",
+        "Scuffling: Light digging of soil upto 4 inches (10 cm) in young plantations[3].",
+        "Covering the soil with dry leaves, weed slashings or any other farm wastes[3].",
+        "It is advisable to mulch the soil around the coffee plants after digging/scuffling operations[3].",
+        "Mulching young coffee clearings helps to maintain optimal soil temperature, conserve soil moisture, suppress weed growth and prevent soil erosion[3].",
+        "Trenches/cradle pits should be opened across the slope in zig-zag manner[3].",
+        "It acts as a mini compost pits for fallen leaves, weed bio-mass and dadap loppings[3].",
+        "It conserves soil moisture and prevents soil erosion[3].",
+        "Cradle pits/Trenches should be renovated once in 2 - 3 years[3]."
+      ],
+      "Nutrient Management": [
+        "The quantity and type of fertiliser should be applied based on soil test values[3].",
+        "Post-monsoon fertilizer recommendations: Urea (kg) 13, 20:20:0:13 (kg) 120, MOP (kg) 50, Per plant (g) 100 for Arabica yielding 400 kg of clean coffee per acre (with 5 x 5 ft. spacing)[3].",
+        "Post-monsoon fertilizer recommendations: Urea (kg) 17, 20:20:0:13 (kg) 138, MOP (kg) 59, Per plant (g) 300 for Robusta yielding 500 kg clean coffee per acre (with 8 x 8 ft. spacing) who are applying 2nd round manuring (2 rounds per year)[3].",
+        "Post-monsoon fertilizer recommendations: Urea (kg) 15, 20:20:0:13 (kg) 115, MOP (kg) 50, Per plant (g) 250 for Robusta yielding 700 kg clean coffee per acre (8 x 8 ft. spacing) who are applying 3rd round manuring (3 rounds per year)[3].",
+        "Apply NPK complex fertilizers such as 20:20:0:13 (or) 19:19:19 (or) 17:17:17 at the following rates : For Arabica : 50 to 75 g/plant ; For Robusta : 100 to 125 g/plant[3].",
+        "Before applying any fertilizers, weeding and desuckering should be completed. The mulch beneath the coffee plant is swept towards its base. Using a fork the soil around one and a half to two feet away from the main stem is gently disturbed. The fertilizer is uniformly spread in a broad circular band within the designated area. The soil is carefully reworked after the fertilizer application making sure it is well mixed with the fertilizer. Finally the area is covered with mulch creating a protective layer. This method of fertilizer application is highly efficient as it minimizes the risk of nutrient runoff and ensures that the nutrients are available to the coffee plants. In areas with steep slopes a modification of this method is followed - by applying the fertilizers in the form of a semi-arch or horse shoe shaped on the elevated side around the stem[3]."
+      ],
+      "Pest Management": [
+        "Complete tracing and disposal of CWSB infested stems at the earliest, if not completed in September due to rain[3].",
+        "Wrap main stem and thick primaries with non woven fabric (>1mm) on plants those are suspected for CWSB infestation[3].",
+        "Install cross vane pheromone trap in heavily infested blocks (12 nos. per acre)[3].",
+        "Spray Phenthoate 50 EC @ 400 ml in 200 litres of water with 200 ml DDL fevicol, on the main stem & thick primaries[3].",
+        "Install Brocatraps (10 per acre) in the field to trap adult beetles[3].",
+        "Install Brocatraps around drying yard, if arabica harvesting and processing commenced[3].",
+        "Remove and burn SHB infested twigs (cut the twigs below the hole and burn it)[3].",
+        "Install Xycom traps (12 per acre) in the field to trap adult SHB[3]."
+      ],
+      "Disease Management": [
+        "The intermittent rains and sunshine prevailing in the coffee growing areas favours the initiation and progress of coffee leaf rust disease. Hence, it is advised to take up spray of any one of the systemic fungicides viz., hexaconazole 5% EC @ 400 ml/200 litres or propiconazole 25% EC @ 200 ml/200 litres or hexaconazole 75% WG @ 30 g/200 litres or tebuconazole 38.39% SC @ 200 ml/200 litres of water along with 100 ml wetting agent to minimize the leaf rust disease before the first week of October, if not completed in September month. To avoid the fungicide residue problem in the final produce, the planters are advised to maintain a minimum time gap of 50 days between the date of spray and harvesting of crop[3].",
+        "While using WG formulation of fungicide, the recommended quantity of fungicide has to be initially mixed in small quantity of water in a plastic bucket to ensure complete dissolving of fungicide. Later on, this fungicide solution should be transfer to barrel and final volume of the spray solution must be made up to 200 litres by adding water[3].",
+        "Coffee plants showing wilting, yellowing of leaves and defoliation followed by death of entire plant is observed, then may be suspected of root disease problem during dry period[3].",
+        "Uproot and destroy the affected shade trees and coffee plants to reduce the disease spread[3].",
+        "Remove the fallen logs and felled shade tree stumps at the earliest from the coffee plantation instead of allowing for decomposition[3].",
+        "Isolate the affected area by digging trench of 2 ft deep and 0.5 ft wide, all around the disease patch. While making trenches include one adjoining row of apparently healthy plants[3].",
+        "Soil taken out from the trenches should be placed inside the infected area. The trenches should be cleaned at least once in three months[3].",
+        "Apply 2 to 3 kg of agricultural lime and turn the soil in pits where affected coffee plants and shade trees are uprooted. Planting of new seedlings in the affected areas must be done after exposing the pits to sunlight for a period of 6 to 8 months[3].",
+        "Also apply agricultural lime to affected areas inside the trench and take up cover digging during dry period to expose the soil to sunlight[3].",
+        "Apply Trichoderma enriched compost/farmyard manure (100 kg of compost/farmyard manure enriched with 10 kg of Trichoderma) around the base and root zone of the neighbouring healthy plants when sufficient soil moisture exists[3].",
+        "Drench the base and root zone of the coffee plants showing initial stage of wilting symptoms with propiconazole 25% EC @ 2 ml/litre once soil dries up after cessation of rains. The fungicide solution should be drenched @ 15 to 20 litres per plant based on size and age of the bush[3].",
+        "The prevailing hot humid weather conditions due to intermittent rains and sunshine creating a favourable condition for the occurrence and spread of the brown eye spot disease in nurseries and also young plants in the new clearings[3].",
+        "Provide filtered shade using 75% poly shade net in nurseries to avoid direct exposure to sun light and insect damage[3].",
+        "In the new clearings, protect the seedlings by hutting and maintain good overhead shade during dry periods[3].",
+        "If the brown eye spot disease is noticed, take up the spray of Tebuconazole 38.39% SC @ 1 ml/litre along with suitable wetting agent by covering both upper and lower surfaces of the leaves at 30 days interval[3].",
+        "In the nursery, if Myrothecium leaf spot is noticed, collect and destroy the disease infected fallen leaves and spray fungicide propiconazole 25% EC @ 0.8 ml/l followed by mancozeb 75 WP @ 2 g/l by covering all parts of seedlings alternatively at 20-25 days interval to minimize the disease spread[3]."
+      ],
+      "Notification - Procurement and Distribution of Seed Coffee (2024-25)": [
+        "Notification for supply of seed coffee for the year 2024-25 is issued by the Director of Research, Coffee Board and wider publicity also given through publication in local newspapers, WhatsApp groups and other social media handles, and also by communicating to Coffee Grower's Associations to enable the growers to place their indents through “India coffee app” before the last date, i.e. November 1, 2024[3].",
+        "Further, necessary directions were given to all sub offices to assist the growers in installing and using “India coffee app” and booking of seed coffee[3].",
+        "User can find the below link to download ‘India Coffee App’ <https://play.google.com/store/apps/details?id=com.ict.coffee_board>[3].",
+        "User can find the below QR code of 'India Coffee App' for both Android and IOS[3].",
+        "Applications are invited from coffee growers for placing indents for seed coffee of different station released selections of Arabica and Robusta viz.; Sln. 3 (S.795), Sln. 5A, Sln. 5B, Sln. 6, Sln. 7.3, Sln.9, Chandragiri, Sln.1R (S.274) and Sln. 3R (CxR)[3].",
+        "For growers in Karnataka, Kerala and Tamil Nadu, the indents for seed coffee should be submitted through “India Coffee app” from 1st October 2024 to 1st November 2024. The link for downloading the India coffee app in the grower’s mobile phones is given below[3].",
+        "The seed coffee will be dispatched to the given address through postal service. The quantity of booking is restricted to 20 kg per grower. Payment for the seed coffee is through India Coffee App only subjected to availability of seed coffee and approval by competent authority[3].",
+        "With respect to NTA and NE Region, indents for seed coffee have to be registered at Coffee Board Extension offices located in respective regions before 30th November 2024[3].",
+        "All the Extension Officers are informed that procurement of seed coffee from traditional areas for use in NTA and NER region is prohibited owing to the risk of introducing coffee berry borer pest. Hence, all the NGOs and other agencies associated with production, processing and trade of coffee in NTA/NER may be apprised about the pest risk involved and ensure that either seed coffee or clean coffee is not procured from Karnataka, Kerala and Tamil Nadu regions[3]."
+      ],
+      "Advisory on Coffee Based Intercrops - Black Pepper": [
+        "New planting and replanting in the main field may be continued[3].",
+        "Slash weeding may be done to keep the field free from weed[3].",
+        "Tie the growing vines with the standard trees for better vine growth[3].",
+        "Excess branches in shade trees may be pruned[3].",
+        "Half dose of recommended fertilizers (Urea 55 kg, Rock Phosphate 140 kg and MoP 125 kg/ha) may be applied during the first week of September if not applied during second fortnight of August month[3].",
+        "Spray one per cent Bordeaux mixture if the foot rot symptoms are observed and drench 0.2 per cent COC (200 grams in 100 liters water) at the plant base @ 5 litres per vine[3].",
+        "Spray pepper micronutrient mixture @ 5 g per litre of water if not done in the past month[3].",
+        "Maintain rooted cuttings in poly bag till they are taken to the main field for planting[3].",
+        "Remove fungal infected vines and spray with Bordeaux mixture one per cent or Bavistin 0.2 per cent, if not done during the previous month[3].",
+        "As a precautionary measure to avoid phytophthora infection drench with 0.2 per cent copper oxy chloride[3].",
+        "Runners may be collected from the selected mother plants and two node runner cuttings maybe planted in the poly bag nursery for propagation[3]."
+      ]
+    },
+    "November": {
+      "Cultural Practices Summary": [
+        "Take up clean weeding in Robusta blocks[2].",
+        "Open cradle pits/staggered trenches in slopy areas[2].",
+        "Provide winter irrigation @ 1 inch (25 mm) in Robusta blocks, depending on rainfall and availability of water[2].",
+        "Drench the base of plants showing initial wilting symptoms with Propiconazole 25% EC @ 2 ml/litre for root rot disease management[2].",
+        "Take up spray of Phenthoate 50 EC @ 400 ml in 200 litres of water with 200 ml DDL fevicol, on the main stem & thick primaries for coffee white stem borer (CWSB) management[2].",
+        "Install Brocatraps (10 per acre) in the field for management of coffee berry borer (CBB)[2].",
+        "Remove and burn shot hole borer (SHB) infested twigs and install Xycom traps (12 per acre) in the field to trap adult SHB[2].",
+        "Commence harvesting and processing of Arabica coffee[2]."
+      ],
+      "New Clearings": [
+        "Take up cover digging (in the young clearing having 1 year seedling) or scuffling (in the young clearing having 2nd and 3rd year seedling)[2].",
+        "Carry out forking, mulching around the bush for young coffee plants and provide hutting[2]."
+      ],
+      "Agronomical Practices": [
+        "Weeds compete with coffee plants for water, light and mineral nutrients. If weeds are allowed to grow during late post-monsoon period, they use the soil moisture which coffee needs in the following dry weather[2].",
+        "Take up clean weeding by adopting cultural/mechanical methods of weed management[2].",
+        "Robusta coffee being susceptible to drought, responds well to irrigation compared to Arabica[2].",
+        "Provide first winter irrigation 20-25 days after the cessation of monsoon[2].",
+        "Continue the winter irrigation upto 25mm once in 20-25 days till the end of December[2]."
+      ],
+      "Soil Moisture Conservation Measures": [
+        "It is essential to conserve soil moisture by adopting the soil moisture conservation practices such as cover digging, scuffling, forking, mulching and hutting around the young plants in new clearings[2].",
+        "Cover digging: Deep digging of soil upto 15-18 inches (30 - 45 cm) in young new clearing areas[2].",
+        "Scuffling: Light digging of soil upto 4 inches (10 cm) in young plantations[2].",
+        "Covering the soil with dry leaves, weed slashings or any other farm wastes[2].",
+        "It is advisable to mulch the soil around the coffee plants after digging/scuffling operations[2].",
+        "Mulching young coffee clearings helps to maintain optimal soil temperature, conserve soil moisture, suppress weed growth and prevent soil erosion[2].",
+        "Trenches/cradle pits should be opened across the slope in zig-zag manner[2].",
+        "It acts as a mini compost pits for fallen leaves, weed bio-mass and dadap loppings[2].",
+        "It conserves soil moisture and prevents soil erosion[2].",
+        "Cradle pits/Trenches should be renovated once in 2 - 3 years[2]."
+      ],
+      "Soil Acidity and its Management": [
+        "Adverse effects of soil acidity: Reduced availability of essential nutrients like nitrogen, phosphorus, potassium, calcium, magnesium, zinc and boron[2].",
+        "Toxicity of aluminium, iron and manganese[2].",
+        "Decreased activity of beneficial microorganisms in soil[2].",
+        "Enhanced activity of harmful microorganisms specifically fungi which cause root and other diseases[2].",
+        "For optimal coffee plant growth, the soil pH should be about 6.2[2].",
+        "Coffee is a major crop cultivated in the Western Ghats of South India, where soils are acidic to very acidic due to various factors[2].",
+        "These factors includes; Leaching of bases such as calcium, magnesium, potassium and sodium[2].",
+        "Use of acid forming nitrogenous fertilizers[2].",
+        "Due to presence of aluminium, iron and manganese which produces hydrogen on reaction with soil moisture causing acidity[2].",
+        "Soil acidity is determined using the pH scale which ranges from 0 to 14[2].",
+        "pH value less than 6.5 indicates Acidic reaction, between 6.5-7.5 Neutral and above 7.5 Alkaline[2].",
+        "Soil acidity can be corrected by applying liming material such as Agricultural lime (calcium carbonate) and Dolomite (calcium & magnesium carbonate)[2].",
+        "Correcting soil acidity using liming material is an essential soil management practice regularly undertaken in coffee plantation to maintain soil fertility and productivity[2].",
+        "It is essential to broadcast lime/dolomite uniformly on the field including the basin of the plants (area of fertilizer application) which is usually more acidic than the other areas[2].",
+        "The quantity of lime/dolomite to be applied is based on the pH of the soil[2].",
+        "Highly acidic soils require more of the lime and vice versa[2].",
+        "The calcium and magnesium present in the liming material are released to neutralize the soil acidity when there is sufficient moisture (60% water holding capacity) in the soil[2].",
+        "Agricultural lime and dolomitic lime are the most commonly used liming material in coffee plantations[2].",
+        "The purity of liming material or its effectiveness to neutralize soil acidity is expressed in terms of calcium carbonate equivalent (CCE) or neutralization value (% NV) of the material[2].",
+        "A liming material with a neutralizing value above 80% is generally considered good[2]."
+      ],
+      "Pest Management": [
+        "Scrubbing on main stem or coating with 10% lime can be done in open patches, and the area where neglected estates are nearby to prevent egg laying by CWSB[2].",
+        "Wrap non woven fabric on main stem & thick primaries of plants with infestation or suspected for infestation[2].",
+        "Install cross vane pheromone trap in heavily infested blocks (12 nos. per acre)[2].",
+        "Spray Phenthoate 50 EC @ 400 ml in 200 litres of water with 200 ml DDL fevicol, on the main stem & thick primaries[2].",
+        "Install Brocatraps (10 per acre) in the field to trap adult beetles[2].",
+        "Install Brocatraps around drying yard, if arabica harvesting and processing commenced[2].",
+        "Remove and burn SHB infested twigs (cut the twigs below the hole and burn it)[2].",
+        "Install Xycom traps (12 per acre) in the field to trap adult SHB[2]."
+      ],
+      "Disease Management": [
+        "Coffee plants showing wilting, yellowing of leaves and defoliation followed by death of entire plant is observed, then may be suspected of root disease problem during dry period[2].",
+        "Uproot and destroy the affected shade trees and coffee plants to reduce the disease spread[2].",
+        "Remove the fallen logs and felled shade tree stumps at the earliest from the coffee plantation instead of allowing for decomposition[2].",
+        "Isolate the affected area by digging trench of 2 ft deep and 0.5 ft wide, all around the disease patch. While making trenches include one adjoining row of apparently healthy plants[2].",
+        "Soil taken out from the trenches should be placed inside the infected area. The trenches should be cleaned at least once in three months[2].",
+        "Apply 2 to 3 kg of agricultural lime and turn the soil in pits where affected coffee plants and shade trees are uprooted. Planting of new seedlings in the affected areas must be done after exposing the pits to sunlight for a period of 6 to 8 months[2].",
+        "Also apply agricultural lime to affected areas inside the trench and take up cover digging during dry period to expose the soil to sunlight[2].",
+        "Apply Trichoderma enriched compost/farmyard manure (100 kg of compost/farmyard manure enriched with 10 kg of Trichoderma) around the base and root zone of the neighbouring healthy plants when sufficient soil moisture exists[2].",
+        "Drench the base and root zone of the coffee plants showing initial stage of wilting symptoms with propiconazole 25% EC @ 2 ml/litre once soil dries up after cessation of rains. The fungicide solution should be drenched @ 15 to 20 litres per plant based on size and age of the bush[2].",
+        "Provide filtered shade using 75% poly shade net in nurseries to avoid direct exposure to sun light and insect damage[2].",
+        "In the new clearings, protect the seedlings by hutting and maintain good overhead shade during dry periods[2].",
+        "If the brown eye spot disease is noticed, take up the spray of Tebuconazole 38.39% SC @ 1 ml/litre along with suitable wetting agent by covering both upper and lower surfaces of the leaves at 30 days interval[2]."
+      ],
+      "Post Harvest Management": [
+        "Management of Coffee Effluent at Estate Level - Conditioning of Anaerobic Lagoon[2].",
+        "The Research Department of the Coffee Board in collaboration with the National Environmental Engineering Institute (NEERI-Nagpur) developed an Effluent Treatment Plant (ETP) in 1980 for treating the effluent emanating from wet processing of coffee[2].",
+        "The NEERI treatment method is basically an anaerobic-cum-aerobic digestion method[2].",
+        "The basic unit of NEERI ETP model consists of One equalization tank, Two anaerobic lagoons, One aerobic lagoon, One settling tank[2].",
+        "The NEERI-ETP do not require lining of lagoons, as they are made up of size stone masonry construction plastered with concrete. The size stone masonry construction plastered with concrete ensure water tightness and effluent does not percolate into ground water[2].",
+        "Those planters who have NEERI ETP unit for treating the coffee effluent should condition/charge the anaerobic lagoon with 4% cow dung slurry up to 10% of the capacity of the lagoon during November[2].",
+        "The charging of anaerobic lagoon prior to the start of pulping operation (ideally 30 to 45 days before) is very much essential, as the methanogenic bacteria present in the cow dung slurry multiplies sufficiently and degrades the effluent effectively[2]."
+      ],
+      "Notification - Procurement and Distribution of Seed Coffee (2024-25)": [
+        "Notification for supply of seed coffee for the year 2024-25 is issued by the Director of Research, Coffee Board and wider publicity also given through publication in local newspapers, WhatsApp groups and other social media handles, and also by communicating to Coffee Grower's Associations to enable the growers to place their indents through “India coffee app” before the last date, i.e. November 15, 2024[2].",
+        "Further, necessary directions were given to all sub offices to assist the growers in installing and using “India coffee app” and booking of seed coffee[2].",
+        "User can find the below link to download ‘India Coffee App’ <https://play.google.com/store/apps/details?id=com.ict.coffee_board>[2].",
+        "User can find the below QR code of 'India Coffee App' for both Android and IOS[2].",
+        "Applications are invited from coffee growers for placing indents for seed coffee of different station released selections of Arabica and Robusta viz.; Sln. 3 (S.795), Sln. 5A, Sln. 5B, Sln. 6, Sln. 7.3, Sln.9, Chandragiri, Sln.1R (S.274) and Sln. 3R (CxR)[2].",
+        "For growers in Karnataka, Kerala and Tamil Nadu, the indents for seed coffee should be submitted through “India Coffee app” from 1st October 2024 to 15th November 2024. The link for downloading the India coffee app in the grower’s mobile phones is given below[2].",
+        "The seed coffee will be dispatched to the given address through postal service. The quantity of booking is restricted to 20 kg per grower. Payment for the seed coffee is through India Coffee App only subjected to availability of seed coffee and approval by competent authority[2].",
+        "With respect to NTA and NE Region, indents for seed coffee have to be registered at Coffee Board Extension offices located in respective regions before 30th November 2024[2].",
+        "All the Extension Officers are informed that procurement of seed coffee from traditional areas for use in NTA and NER region is prohibited owing to the risk of introducing coffee berry borer pest. Hence, all the NGOs and other agencies associated with production, processing and trade of coffee in NTA/NER may be apprised about the pest risk involved and ensure that either seed coffee or clean coffee is not procured from Karnataka, Kerala and Tamil Nadu regions[2]."
+      ]
+    },
+    "December": {
+      "Cultural Practices Summary": [
+        "Apply liming material based on soil pH[1].",
+        "Install pheromone traps (10 per acre) to manage coffee white stem borer in heavily infested blocks[1].",
+        "Install Broca traps around drying yard to know the incidence level of coffee berry borer in the estate[1].",
+        "Install Xycom traps (12 per acre) in the field to trap adult of shot hole borer[1].",
+        "Harvest and process coffee depending on the maturity of fruits[1]."
+      ],
+      "Nursery Practices": [
+        "Collect and dry the jungle soil, farm-yard manure and sand for nursery preparation[1]."
+      ],
+      "Soil Acidity and its Management": [
+        "Soil acidity has several adverse effects: Increase the toxicity of aluminium, iron and manganese[1].",
+        "Reduced availability of essential nutrients like nitrogen, phosphorus, potassium, calcium, magnesium, zinc and boron[1].",
+        "Decreased activity of beneficial microorganisms in soil and enhanced activity of harmful microorganisms specifically fungi which cause root and other diseases[1].",
+        "Coffee is a major crop cultivated in the Eastern and Western Ghats of India, where soils are acidic to very acidic due to various factors such as: Leaching of bases such as calcium, magnesium, potassium and sodium[1].",
+        "Use of acid forming nitrogenous fertilizers[1].",
+        "Presence of aluminium, iron and manganese which produces hydrogen on reaction with soil moisture[1].",
+        "Correcting soil acidity using liming material is an essential soil management practice regularly undertaken in coffee plantation to maintain soil fertility and productivity[1].",
+        "Soil acidity can be corrected by applying liming material such as Agricultural lime (calcium carbonate) and Dolomite (calcium & magnesium carbonate)[1].",
+        "Agricultural lime and dolomitic lime are the most commonly used liming material in coffee plantations[1].",
+        "The purity of liming material or its effectiveness to neutralize soil acidity is expressed in terms of calcium carbonate equivalent (CCE) or neutralization value (% NV) of the material[1].",
+        "A liming material with a neutralizing value above 80% is generally considered good[1].",
+        "It is essential to broadcast lime/dolomite uniformly on the field including the basin of the plants (site of fertilizer application) which is usually more acidic than the other areas[1].",
+        "Lime application in coffee plantations can be carried out from November to May - South-West monsoon area; November to March - North-East monsoon area[1].",
+        "The calcium and magnesium present in the liming material are released to neutralize the soil acidity when there is sufficient moisture (60% WHC) in the soil[1].",
+        "Application of liming material without testing soil is not advisable as blanket application of liming affects nutrient mobility in the soil[1].",
+        "It is advised to test the soil at least once in 2 years (> 120\" rainy area) and 3 years (< 120\" rainy area)[1].",
+        "Apply liming materials alternatively i.e., 1st year – Agriculture lime & subsequent years either 2nd year or 3rd year – Dolomite in a continuous cyclic manner[1].",
+        "Application of any one source of liming materials leads to nutrient imbalance in the soil and affects the plant growth[1].",
+        "A minimum of 30 to 40 days interval should be given between lime and fertilizer application[1]."
+      ],
+      "Soil Sampling": [
+        "Each sample should represent 2 ha of area[1].",
+        "Collect soil sample from middle of 4 plants[1].",
+        "Remove all the litter; dig a hole of 22 cm (9’’) depth using an auger or sabbal[1].",
+        "Scrape the soil around the hole from the top to the bottom all along the side[1].",
+        "Mix soil from 20 spots to get uniform mixture[1].",
+        "Employ quartering technique to get 500g of composite Sample[1].",
+        "Ideal time for collecting samples is January – May[1].",
+        "Collect separate samples from problematic blocks[1].",
+        "In case of wet samples, dry them under shade[1].",
+        "Pack sample in clean cloth bag[1].",
+        "Label each sample with name of estate, block and date of collection[1].",
+        "Submit sample along with the information sheet[1].",
+        "Keep the record of the area sampled[1].",
+        "Leave a gap of 60 days from recently limed or manured blocks[1].",
+        "Do not collect samples during rainy season[1]."
+      ],
+      "On-spot Mobile Soil Testing Campaign": [
+        "To create awareness among the coffee growers on the importance of soil test based nutrient management, Coffee Board is conducting On-Spot Mobile Soil Testing Campaign at village / hobli level[1].",
+        "The growers may utilize this facility to get their soil samples analyzed on payment basis and obtain lime recommendation on the spot[1].",
+        "For availing this campaign in your area, the growers may contact nearest extension officers (or) Divisional Head, Agricultural Chemistry - 6361335035 / Scientist (Agricultural Chemistry) – 9632600068[1]."
+      ],
+      "Selection of Elite Robusta Mother Plants for Vegetative Propagation": [
+        "Identification and selection of elite Robusta mother plants may be performed from December to January. Plants with high and consistent yield coupled with other traits of interests viz., pest & disease resistance and tolerance to abiotic stresses (drought, high rainfall and water flooded conditions) and fruit/cherry characteristics like density may be observed and marked[1].",
+        "Plantations may be observed for any unique/elite plants among the existing populations and the same may be informed to Head, Plant Breeding and Genetics, CCRI, Balehonnuru or to the nearby extension officials of Coffee Board for further course of action[1].",
+        "The planters can also propagate these elite mother plants by conventional vegetative propagation techniques to make their own estate clonal collections for new clearings. It is recommended to establish a mixed clonal populations instead of single clonal population to maintain proper cross pollination[1].",
+        "Minimum criteria to select high yielding Robusta mother plants: Plant should be in the potential yielding age of above 10 years in C x R and 20 years in S.274 & Old Robusta[1].",
+        "Previous observation on consistent yielding performance to be taken for selection[1].",
+        "Compact, semi-erect & spreading bush stature for C x R selection[1].",
+        "Narrow leaves[1].",
+        "Short internodes or continuous bearing nodes[1].",
+        "Tight clusters with bold fruits[1].",
+        "Free from pest & diseases[1]."
+      ],
+      "Pest Management": [
+        "Install cross vane pheromone traps (10 per acre) in heavily infested blocks to manage Coffee White Stem Borer (CWSB)[1].",
+        "Install Broca traps around drying yard to know the incidence level of coffee berry borer in the estate[1].",
+        "Install Xycom traps (12 per acre) in the field to trap adult of shot hole borer[1]."
+      ],
+      "Disease Management": [
+        "In North-East monsoon regions, to manage the coffee leaf rust, take up spray 0.5% Bordeaux mixture or systemic fungicide hexaconazole 5% EC @ 400 ml/200 litres[1].",
+        "In South-East area, if post-monsoon fungicide spray for management of leaf rust disease was skipped and the incidence of leaf rust is noticed in Arabica plantations, then take up spray of systemic fungicide hexaconazole 5% EC @ 400 ml/200 litres of water immediately after the complete harvest of the crop[1]."
+      ],
+      "Post-Harvest Management": [
+        "In wet method, it is recommended to pick coffee fruits as and when ripe[1].",
+        "The ripe cherries should be pulped as quickly as possible (within 6 hours) as prolonged storage encourages pre-fermentation of ripe fruits[1].",
+        "Inferior fruits (overripe/tree dried/diseased) if any should be separated out before feeding into the pulper through flotation tank/siphon tank arrangements[1].",
+        "All coffee processing machineries (pulper and washer) should be kept clean and good working condition (properly adjusted/calibrated) to avoid pulper cuts and pulper nipped beans[1].",
+        "Fermentation vat and post-wash tank should be clean and tidy[1].",
+        "Fruits skin/pulp should not be present in the fermentation vat and fermenting coffee bean, as it spoils quality[1].",
+        "Close monitoring of fermentation process is essential (optimal fermentation is must and should)[1].",
+        "Clean water should be used for pulping and washing of fermented coffee beans[1].",
+        "Soaking of wet parchment under clean water for about six to eight hours improves coffee quality[1].",
+        "Wherever possible, dry the wet parchment initially on wire mesh bottom trays for 24 to 48 hours before shifting them to the drying yard[1].",
+        "Dry the wet parchment slowly by spreading to 4 to 7 cm thickness for efficient and uniform drying[1].",
+        "The wet parchment should be regularly raked to facilitate uniform drying (once an hour)[1].",
+        "The wet parchment should be covered with a clean plastic sheet during night hours to prevent rewetting of coffee samples[1].",
+        "Dry the wet parchment to the recommenced moisture level of 10%. The forlit weight (kg/40 liter) should be 15.5 kg, 16.5 kg, 17 kg & 18 kg for Arabica Parchment, Robusta Parchment, Arabica Cherry and Robusta Cherry, respectively[1].",
+        "In case of on-farm storage, pack the raw coffees in clean gunny bags and stack the bags in well-ventilated godown/warehouse over the wooden dunnage[2].",
+        "Do not store at the estate level for long duration (beyond end of May) as the wet monsoon conditions not ideal for coffee storage[1].",
+        "In dry method, it is recommended to pick the coffee fruits when about 90% of fruits are ripe[1].",
+        "Avoid heaping of fresh coffee fruits (or) storing of fresh coffee fruits in gunny bags for longer time, as it increases the likelihood of mould growth and subsequent spoilage of coffee quality[1].",
+        "Sort out all the unripe (greens), over-ripe, tree-dried and damaged coffee fruits before spreading the coffee fruits for drying. Over-ripe, tree-dried and damaged coffee fruits are potential source of mould contamination which results in the production of “mouldy” coffee and these mouldy coffee imparts “mouldy/musty” taste in the coffee liquor[1].",
+        "After sorting, spread the coffee fruits evenly to a thickness of not more than 4 cm for the first 3 to 4 days of drying on a clean drying yard. After 3 to 4 days of drying, thickness can be increased not more than 8 cm[1].",
+        "Dry the coffee fruits on a clean cemented or tiled drying yard. Do not dry coffee fruits on bare soil. Coffee fruits dried on bare soil imparts “earthy” taste in the coffee liquor besides coffee fruits getting contaminated with mould spores present on the bare soil[1].",
+        "Do not mix the freshly harvested coffee fruits with the previous day’s coffee fruits, as this result in un-even drying of fruits[1].",
+        "During the course of drying, the coffee fruits must be regularly raked/stirred (6 to 8 times per day) to facilitate uniform drying of cherries[1].",
+        "After 3 to 4 days of initial drying, the coffee samples should be covered with a clean plastic sheet during night hours to avoid rewetting of coffee samples[1].",
+        "Dry the coffee fruits to the recommended forlit weight/bushel weights of 17 kg & 18 kg for Arabica and Robusta respectively (which correspondence to a moisture level of 11% to 12%). At estate level, the forlit weight of dry cherry lot should not exceed beyond the said recommended limit, to minimize risk of mould contamination[1].",
+        "After completion of drying process, clean the dried cherry lots by winnowing to remove the all the extraneous matters (dried leaves, twigs, dirt etc.,) before bagging them into clean gunny bags[1].",
+        "In case of on-farm storage, store the cherry bags in a well-ventilated godown without letting in the moisture and rain water. The cherry bags should be stored on a raised wooden platform to ensure circulation of air underneath the bags and also away from the wall to avoid to re-hydration of dried cherries & subsequent development of mould growth[1].",
+        "Do not store the coffee sample at the estate level for long duration (beyond May) as the wet monsoon conditions prevailing in plantation areas during June to October are not ideal for coffee storage[1].",
+        "Management of Coffee Effluent at Estate Level - Conditioning of Anaerobic Lagoon[1].",
+        "The Research Department of the Coffee Board in collaboration with the National Environmental Engineering Institute (NEERI-Nagpur) developed an Effluent Treatment Plant (ETP) in 1980 for treating the effluent emanating from wet processing of coffee[1].",
+        "The NEERI treatment method is basically an anaerobic-cum-aerobic digestion method[1].",
+        "The basic unit of NEERI ETP model consists of One equalization tank, Two anaerobic lagoons, One aerobic lagoon, One settling tank[1].",
+        "The NEERI-ETP do not require lining of lagoons, as they are made up of size stone masonry construction plastered with concrete. The size stone masonry construction plastered with concrete ensure water tightness and effluent does not percolate into ground water[1].",
+        "Those planters who have NEERI ETP unit for treating the coffee effluent should condition/charge the anaerobic lagoon with 4% cow dung slurry up to 10% of the capacity of the lagoon during November[1].",
+        "The charging of anaerobic lagoon prior to the start of pulping operation (ideally 30 to 45 days before) is very much essential, as the methanogenic bacteria present in the cow dung slurry multiplies sufficiently and degrades the effluent effectively[1]."
+      ],
+      "Moisture Standards and Outturn Standards": [
+        "Arabica Parchment: Forlit Weight 15.5 kg, Moisture Standards 10.0 (+ 0.5)%[1].",
+        "Robusta Parchment: Forlit Weight 16.5 kg, Moisture Standards 10.0 (+ 0.5)%[1].",
+        "Arabica Cherry: Forlit Weight 17.0 kg, Moisture Standards 11.0 (+ 0.5)%[1].",
+        "Robusta Cherry: Forlit Weight 18.0 kg, Moisture Standards 11.0 (+ 0.5)%[1].",
+        "A tolerance limit of + 0.5% is allowed for each type of coffee[1].",
+        "Outturn standards prescribed by Coffee Board & International Coffee Organization: Parchment Coffee 80 - 85 (Board), 80.0 (ICO)[1].",
+        "Cherry Coffee 50 - 54 (Board), 50.0 (ICO)[1].",
+        "Proximate outturn percentage of coffee samples at different stages of coffee processing: Wet processing - Fruit to beans with mucilage 55 – 60 (Arabica), 50 - 55 (Robusta)[1].",
+        "Fruit to wet parchment 40 - 45 (Arabica), 45 - 50 (Robusta)[1].",
+        "Fruit to dry parchment 19 - 22 (Arabica), 22 - 25 (Robusta)[1].",
+        "Fruit to green coffee bean 16 - 19 (Arabica), 19 - 21 (Robusta)[1].",
+        "Fruit: Clean coffee ratio 5.5:1 to 6.0:1 (Arabica), 4.5:1 to 5.0:1 (Robusta)[1].",
+        "Dry processing - Fruit to dry cherry 35 - 40 (Arabica), 40 - 45 (Robusta)[1].",
+        "Fruit to green coffee bean 16 -19 (Arabica), 19 - 21 (Robusta)[1].",
+        "Fruit to clean coffee ratio 5.5:1 - 6.0:1 (Arabica), 4.5:1 - 5.0:1 (Robusta)[1].",
+        "Calibration of moisture meter is done at the analytical laboratory, Coffee Board, Head Office Bangalore[1].",
+        "It is recommended by Coffee Board that moisture meter should be calibrated every year preferably before the onset of harvesting season (November)[1].",
+        "Calibration charge Rs. 1000/- and calibration report will be issued by Coffee Board[1]."
+      ],
+      "Services Offered by the Board": [
+        "Hands on training will be provided on need based. Interested planters may contact Training Section, Central Coffee Research Institute (CCRI) (nodalofficertrainingccri@gmail.com Mobile No.: 9591389534) for further details[1].",
+        "Coffee Board has initiated Coffee Krishi Taranga (CKT) in all the regional languages. Growers can contact for information related to coffee cultivation aspects, subsidy schemes, and market price etc. to the given toll free nos. 080-37685000 (Karnataka), 080-37685001 (Kerala), 080-37685002 (Tamil Nadu) and 080-37685003 (Andhra Pradesh)[1].",
+        "Coffee Board provides service of visiting estates on need basis of growers and render on-spot technical advisory. Growers may write to drccri2022@gmail.com for the visit of Scientists to their estate for technical advisory purpose[1].",
+        "To avail Beauveria bassiana starter culture, planters may contact Division of Entomology, Central Coffee Research Institute (CCRI), Chikkamagaluru and Coffee Research Sub Station (CRSS), Chettalli, Kodagu. The cost of culture is Rs. 80/- for small growers (less than 25 acres) and Rs. 100/- for large growers (more than 25 acres)[1]."
+      ]
+    }
+  },
+  "Black Pepper": {
+    "January": {
+      "Cultural Practices Summary": ["Provide shade and water the new vines."],
+      "Nursery Practices": [],
+      "New Clearings": [],
+      "Agronomical Practices": [],
+      "Soil Sampling and Nutrient Management": [],
+      "Top Grafting": [],
+      "Pest Management": [],
+      "Disease Management": [],
+      "Post-Harvest Management": []
+    },
+    "February": {
+      "Cultural Practices Summary": [
+        "Provide shade and water the new vines.",
+        "Preparation of nursery mix for making black pepper nursery."
+      ],
+      "Nursery Practices": [],
+      "New Clearings": [],
+      "Agronomical Practices": [],
+      "Soil Sampling and Nutrient Management": [],
+      "Top Grafting": [],
+      "Pest Management": [],
+      "Disease Management": [
+        "Spray yellow and roadside vines with 3% lime solution to protect from the heat of the sun."
+      ],
+      "Post-Harvest Management": []
+    },
+    "March": {
+      "Cultural Practices Summary": ["Harvest of black pepper."],
+      "Nursery Practices": [],
+      "New Clearings": [],
+      "Agronomical Practices": [
+        "Start by giving 70–80 liters of water to the base of the black pepper plant at an interval of ten days."
+      ],
+      "Soil Sampling and Nutrient Management": [],
+      "Top Grafting": [],
+      "Pest Management": [],
+      "Disease Management": [
+        "After harvesting, spray 2 ml/l of dimethoate or 0.4 ml/l of imidocloprid to control scale insects (scales).",
+        "Or spray 0.4 ml/l of imidocloprid."
+      ],
+      "Post-Harvest Management": []
+    },
+    "April": {
+      "Cultural Practices Summary": [],
+      "Nursery Practices": [],
+      "New Clearings": [],
+      "Agronomical Practices": [
+        "In areas where monsoons are late, provide 50–80 liters of water per vine at an interval of ten days.",
+        "Irrigating 5–8 times will give early start of tillering, good grain development, and less incidence of leaf spot.",
+        "Manage shade."
+      ],
+      "Soil Sampling and Nutrient Management": ["Apply 1 kg of lime per vine."],
+      "Top Grafting": [],
+      "Pest Management": [],
+      "Disease Management": [],
+      "Post-Harvest Management": []
+    },
+    "May": {
+      "Cultural Practices Summary": [
+        "Continue irrigation at the base of the plant."
+      ],
+      "Nursery Practices": [],
+      "New Clearings": [],
+      "Agronomical Practices": [],
+      "Soil Sampling and Nutrient Management": [
+        "Apply 100 g urea + 50 g DAP + 150 g MOP per vine.",
+        "Spray light nutrients like IISR Pepper Special (1 kg) and Mitra(mixture) Fertilizer (1 kg), mix in 200 litre water and spray on the leaves.",
+        "Put a basket of compost, add soil, and cover with straw."
+      ],
+      "Top Grafting": [],
+      "Pest Management": [],
+      "Disease Management": [],
+      "Post-Harvest Management": []
+    },
+    "June": {
+      "Cultural Practices Summary": [
+        "Plant the tubers that are passing through the ground/top stems or rooted cuttings."
+      ],
+      "Nursery Practices": [],
+      "New Clearings": [],
+      "Agronomical Practices": [],
+      "Soil Sampling and Nutrient Management": [
+        "If fertilizer is not given, give fertilizer in June."
+      ],
+      "Top Grafting": [],
+      "Pest Management": [
+        "Apply 5–6 pellets of phorate or thimate (40–50 g/vine)."
+      ],
+      "Disease Management": [
+        "Spray 1% Bordeaux mixture.",
+        "Dissolve 0.5 kg of copper oxychloride in 200 liters water and pour 5 litre of mixture on each vine."
+      ],
+      "Post-Harvest Management": []
+    },
+    "July": {
+      "Cultural Practices Summary": [
+        "Take care that water does not stagnate in the planting holes/planted area."
+      ],
+      "Nursery Practices": [],
+      "New Clearings": [],
+      "Agronomical Practices": ["Remove and clean fallen leaves and twigs."],
+      "Soil Sampling and Nutrient Management": [],
+      "Top Grafting": [],
+      "Pest Management": [],
+      "Disease Management": [
+        "If phytophthora infection is found in the plantation, uproot affected vines and take immediate action.",
+        "Spray 1.2 g/l Metalaxyl + Mancozeb solution on the affected and adjacent plants and apply the same to the soil.",
+        "Repeat the above spray after ten days.",
+        "To prevent further spread, give a second spray of 1% Bordeaux mixture."
+      ],
+      "Post-Harvest Management": []
+    },
+    "August": {
+      "Cultural Practices Summary": [],
+      "Nursery Practices": [],
+      "New Clearings": [],
+      "Agronomical Practices": [],
+      "Soil Sampling and Nutrient Management": [],
+      "Top Grafting": [],
+      "Pest Management": [],
+      "Disease Management": [
+        "Check for phytophthora infection and spray the same above mentioned solution.",
+        "Spray the remaining plants with 1% Bordeaux mixture."
+      ],
+      "Post-Harvest Management": []
+    },
+    "September": {
+      "Cultural Practices Summary": ["Plant the rooted cuttings."],
+      "Nursery Practices": [],
+      "New Clearings": [],
+      "Agronomical Practices": [],
+      "Soil Sampling and Nutrient Management": [
+        "Give the second round of fertilizer.",
+        "Apply one basket of compost and 0.5 kg of neem pulp per vine."
+      ],
+      "Top Grafting": [],
+      "Pest Management": ["Apply 5–6 pellets of Ghorate (40–50 g/vine)."],
+      "Disease Management": [
+        "Spray 1% Bordeaux mixture.",
+        "Soak with 0.5 kg/barrel copper oxychloride (COC) solution (5 liters per vine) or spray/soak with 5 liters of potassium phosphonate solution per vine, (600 ml/barrel)."
+      ],
+      "Post-Harvest Management": []
+    },
+    "October": {
+      "Cultural Practices Summary": [
+        "Raise the soil and mulch the planting base."
+      ],
+      "Nursery Practices": [],
+      "New Clearings": [],
+      "Agronomical Practices": [],
+      "Soil Sampling and Nutrient Management": [],
+      "Top Grafting": [],
+      "Pest Management": [
+        "Take termite control measures in dry areas.",
+        "Drench the plant with 4–5 liters of 0.07% chlorpyrifos solution up to a height of 90–100 cm to prevent termite, root borer, and scale insect infestations."
+      ],
+      "Disease Management": [],
+      "Post-Harvest Management": []
+    },
+    "November": {
+      "Cultural Practices Summary": [],
+      "Nursery Practices": [],
+      "New Clearings": [],
+      "Agronomical Practices": [],
+      "Soil Sampling and Nutrient Management": [],
+      "Top Grafting": [],
+      "Pest Management": [],
+      "Disease Management": [
+        "Spray 2 ml/l of dimethoate or 0.4 ml/l of imidocloprid to control scale insects."
+      ],
+      "Post-Harvest Management": []
+    },
+    "December": {
+      "Cultural Practices Summary": [
+        "Provide protective irrigation to high-yielding vines to prevent wilting due to water scarcity."
+      ],
+      "Nursery Practices": [],
+      "New Clearings": [],
+      "Agronomical Practices": [],
+      "Soil Sampling and Nutrient Management": [],
+      "Top Grafting": [],
+      "Pest Management": [],
+      "Disease Management": [],
+      "Post-Harvest Management": []
+    }
+  },
+  "Coorg Mandrin": {
+    "January": {
+      "Cultural Practices Summary": [
+        "Harvest the main (winter) crop when fruits mature (December–March) to ensure quality.",
+        "Train young trees into a bushy dome shape during December-January (and July-August) for first 3-4 years.",
+        "Light prune mature trees to remove water sprouts, root suckers, dead or infected branches, and unwanted hanging shoots."
+      ],
+      "Nursery Practices": [],
+      "New Clearings": [],
+      "Agronomical Practices": [],
+      "Soil Sampling and Nutrient Management": [],
+      "Top Grafting": [],
+      "Pest Management": [],
+      "Disease Management": [],
+      "Post-Harvest Management": []
+    },
+    "February": {
+      "Cultural Practices Summary": [
+        "Prune dried or dead branches and apply 10% Bordeaux paste to all cuts."
+      ],
+      "Nursery Practices": [],
+      "New Clearings": [],
+      "Agronomical Practices": [],
+      "Soil Sampling and Nutrient Management": [],
+      "Top Grafting": [],
+      "Pest Management": [],
+      "Disease Management": [],
+      "Post-Harvest Management": []
+    },
+    "March": {
+      "Cultural Practices Summary": [
+        "Irrigate 20L per plant/day for 10 days starting late in the fortnight to induce blossom and fruit set.",
+        "Ensure proper drainage during pre-flowering/flowering."
+      ],
+      "Nursery Practices": [],
+      "New Clearings": [],
+      "Agronomical Practices": [],
+      "Soil Sampling and Nutrient Management": [
+        "Apply 10% Bordeaux paste or COC 50% WP (2.5g/L) to trunk to prevent Phytophthora infections."
+      ],
+      "Top Grafting": [],
+      "Pest Management": [],
+      "Disease Management": [],
+      "Post-Harvest Management": []
+    },
+    "April": {
+      "Cultural Practices Summary": [],
+      "Nursery Practices": [],
+      "New Clearings": [],
+      "Agronomical Practices": [],
+      "Soil Sampling and Nutrient Management": [
+        "Apply 0.5–1.0kg dolomite per plant to correct soil acidity as needed."
+      ],
+      "Top Grafting": [],
+      "Pest Management": [],
+      "Disease Management": [
+        "Spray Imidacloprid 17.8% SL (0.4ml/L) or Azadirachtin 10,000ppm (2–3ml/L) or Imidacloprid + Spirotetramat (240SC, 0.5ml/L) to control leaf miners and citrus psylla on new growth."
+      ],
+      "Post-Harvest Management": []
+    },
+    "May": {
+      "Cultural Practices Summary": [],
+      "Nursery Practices": [],
+      "New Clearings": [],
+      "Agronomical Practices": [],
+      "Soil Sampling and Nutrient Management": [
+        "Apply 15–20kg FYM + 5kg neem or castor cake per plant, fortified with T. harzianum (50–100g/plant)."
+      ],
+      "Top Grafting": [],
+      "Pest Management": [
+        "Spray Imidacloprid 17.8% SL (0.4ml/L) or Fenvalerate 20% EC (1ml/L) or Azadirachtin 10,000ppm (2–3ml/L) to control citrus aphids, leaf miners and psylla."
+      ],
+      "Disease Management": [
+        "Spray 10% Bordeaux paste or COC 50% WP (2.5g/L) to trunk to prevent gummosis and borer damage."
+      ],
+      "Post-Harvest Management": []
+    },
+    "June": {
+      "Cultural Practices Summary": [
+        "Plant disease-free Coorg mandarin budded plants during the rainy season."
+      ],
+      "Nursery Practices": [],
+      "New Clearings": [
+        "Plant new saplings in pits filled with rotted manure and topsoil."
+      ],
+      "Agronomical Practices": [],
+      "Soil Sampling and Nutrient Management": [
+        "Apply first pre-monsoon split dose of fertilizers (700g urea, 650g SSP, 350g MOP/plant) to bearing plants."
+      ],
+      "Top Grafting": [],
+      "Pest Management": [],
+      "Disease Management": [
+        "Spray Bordeaux mixture (1%) or 2-Bromo-2-Nitro-1,3-Propanediol (0.5–1g/L) + COC 50% WP (2.5g/L) with 0.5% zinc sulphate. Soil drenching with Metalaxyl + Mancozeb (2g/L) if necessary.",
+        "Spray 2-Bromo-2-Nitro-1,3-Propanediol (0.5–1g/L) + COC 50% WP (2.5g/L) to control greening disease."
+      ],
+      "Post-Harvest Management": []
+    },
+    "July": {
+      "Cultural Practices Summary": [
+        "Main harvest of monsoon-season crop.",
+        "Continue planting of budded saplings if not finished, and shade regulation as needed."
+      ],
+      "Nursery Practices": [],
+      "New Clearings": [],
+      "Agronomical Practices": [],
+      "Soil Sampling and Nutrient Management": [],
+      "Top Grafting": [],
+      "Pest Management": [
+        "Apply 2ml kerosene or Quinalphos 25% EC or Profenofos 50% EC into holes and seal with wet mud to control stem borers."
+      ],
+      "Disease Management": [
+        "Spray 2-Bromo-2-Nitro-1,3-Propanediol (0.5–1g/L) + COC 50% WP (2.5g/L) to control greening disease.",
+        "Spray Fosetyl-Al 0.2% (2g/L) or potassium phosphonate 0.2% (3g/L) to prevent Phytophthora infections."
+      ],
+      "Post-Harvest Management": [
+        "Handle and move harvested monsoon crop fruits carefully to reduce damage and loss."
+      ]
+    },
+    "August": {
+      "Cultural Practices Summary": [
+        "Harvest secondary monsoon crop as it matures.",
+        "Continue planting disease-free budded plants as needed."
+      ],
+      "Nursery Practices": [],
+      "New Clearings": [],
+      "Agronomical Practices": [],
+      "Soil Sampling and Nutrient Management": [],
+      "Top Grafting": [],
+      "Pest Management": [],
+      "Disease Management": [
+        "Spray 2-Bromo-2-Nitro-1,3-Propanediol (0.5–1g/L) + COC 50% WP (2.5g/L) to control greening disease.",
+        "Soil drenching with Metalaxyl + Mancozeb (2g/L) and spray Fosetyl-Al 0.2% (2g/L) or Potassium phosphonate 0.2% (3g/L) to prevent Phytophthora.",
+        "Spray Imidacloprid 17.8% SL (0.4ml/L), Imidacloprid + Spirotetramat (0.5ml/L), or Thiamethoxam 25% WG (0.3g/L) against aphids and scales.",
+        "Apply wettable sulphur 80% WP (3g/L) or Carbendazim (1g/L) to control powdery mildew."
+      ],
+      "Post-Harvest Management": []
+    },
+    "September": {
+      "Cultural Practices Summary": [],
+      "Nursery Practices": [],
+      "New Clearings": [],
+      "Agronomical Practices": [],
+      "Soil Sampling and Nutrient Management": [],
+      "Top Grafting": [],
+      "Pest Management": [
+        "Install Methyl eugenol pheromone traps for fruit fly (4–6 traps/acre) and poison bait traps for fruit sucking moths (as per area)."
+      ],
+      "Disease Management": [
+        "Apply wettable sulphur 80% WP (3g/L) or Carbendazim (1g/L) for powdery mildew control.",
+        "Spray Imidacloprid, Imidacloprid + Spirotetramat, or Thiamethoxam to control aphids and scales.",
+        "Spray Bordeaux mixture (1%) or 2-Bromo-2-Nitro-1,3-Propanediol (0.5–1g/L) + COC 50% WP (2.5g/L) with 0.5% zinc sulphate as foliar disease prevention."
+      ],
+      "Post-Harvest Management": []
+    },
+    "October": {
+      "Cultural Practices Summary": [],
+      "Nursery Practices": [],
+      "New Clearings": [],
+      "Agronomical Practices": [],
+      "Soil Sampling and Nutrient Management": [
+        "Apply post-monsoon split dose of fertilizers (700g urea, 650g SSP, 350g MOP/plant) to bearing plants."
+      ],
+      "Top Grafting": [],
+      "Pest Management": [
+        "Spray 10% Bordeaux paste or COC 50% WP to trunk for gummosis and borer protection.",
+        "Install pheromone and poison bait traps for fruit fly and fruit sucking moth."
+      ],
+      "Disease Management": [],
+      "Post-Harvest Management": []
+    },
+    "November": {
+      "Cultural Practices Summary": [],
+      "Nursery Practices": [],
+      "New Clearings": [],
+      "Agronomical Practices": [],
+      "Soil Sampling and Nutrient Management": [
+        "Collect leaf samples for macro and micro-nutrient analysis."
+      ],
+      "Top Grafting": [],
+      "Pest Management": [
+        "Spray Azadirachtin 10,000ppm or Imidacloprid + Spirotetramat to control aphids, psyllids, and leaf miner.",
+        "Install pheromone traps for fruit fly and poison bait traps for fruit sucking moth."
+      ],
+      "Disease Management": [],
+      "Post-Harvest Management": []
+    },
+    "December": {
+      "Cultural Practices Summary": [
+        "Main season harvest of Coorg Mandarin begins."
+      ],
+      "Nursery Practices": [],
+      "New Clearings": [],
+      "Agronomical Practices": [],
+      "Soil Sampling and Nutrient Management": [],
+      "Top Grafting": [],
+      "Pest Management": [
+        "Install pheromone traps for fruit fly and poison bait traps for fruit sucking moth."
+      ],
+      "Disease Management": [
+        "Spray Azadirachtin 10,000ppm or Imidacloprid + Spirotetramat for aphids, psyllids, leaf miner."
+      ],
+      "Post-Harvest Management": [
+        "Handle and store fruits with stalks attached for higher market quality and less spoilage.",
+        "Wash and sort harvested fruits before packing or storage.",
+        "Store properly to minimize post-harvest losses; treat with wax emulsion or proper storage methods as per advisory."
+      ]
+    }
+  }
+}
