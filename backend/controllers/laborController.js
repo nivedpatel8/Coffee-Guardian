@@ -127,48 +127,48 @@ exports.markAttendance = async (req, res) => {
       await labor.save();
     }
 
-    // Handle expense sync with attendance
+    // // Handle expense sync with attendance
 
-    // Case 1: Attendance marked PRESENT
-    if (present === true) {
-      if (attendance.expenseId) {
-        // Expense already exists, update if wage or date changed
-        await Expense.findOneAndUpdate(
-          { _id: attendance.expenseId, userId: req.userId },
-          {
-            totalAmount: wage,
-            unitPrice: wage,
-            purchaseDate: attendance.date,
-            notes: `Labor wage updated for ${labor.workerName} on ${targetDateStr}`,
-          }
-        );
-      } else {
-        // No expense linked yet, create new expense record
-        const expense = new Expense({
-          userId: req.userId,
-          itemName: `${labor.workerName} ${labor.workType}`,
-          category: "Labor",
-          quantity: 1,
-          unit: "lb", // or whatever unit fits
-          unitPrice: wage,
-          purchaseDate: attendance.date,
-          totalAmount: wage,
-          notes: `Labor wage for ${labor.workerName} on ${targetDateStr}`,
-        });
-        await expense.save();
-        attendance.expenseId = expense._id; // Link expense with attendance
-      }
-    } else {
-      // Case 2: Attendance marked ABSENT or unmarked (present = false)
-      if (attendance.expenseId) {
-        // Delete linked expense
-        await Expense.findOneAndDelete({
-          _id: attendance.expenseId,
-          userId: req.userId,
-        });
-        attendance.expenseId = null; // Unlink the expense
-      }
-    }
+    // // Case 1: Attendance marked PRESENT
+    // if (present === true) {
+    //   if (attendance.expenseId) {
+    //     // Expense already exists, update if wage or date changed
+    //     await Expense.findOneAndUpdate(
+    //       { _id: attendance.expenseId, userId: req.userId },
+    //       {
+    //         totalAmount: wage,
+    //         unitPrice: wage,
+    //         purchaseDate: attendance.date,
+    //         notes: `Labor wage updated for ${labor.workerName} on ${targetDateStr}`,
+    //       }
+    //     );
+    //   } else {
+    //     // No expense linked yet, create new expense record
+    //     const expense = new Expense({
+    //       userId: req.userId,
+    //       itemName: `${labor.workerName} ${labor.workType}`,
+    //       category: "Labor",
+    //       quantity: 1,
+    //       unit: "lb", // or whatever unit fits
+    //       unitPrice: wage,
+    //       purchaseDate: attendance.date,
+    //       totalAmount: wage,
+    //       notes: `Labor wage for ${labor.workerName} on ${targetDateStr}`,
+    //     });
+    //     await expense.save();
+    //     attendance.expenseId = expense._id; // Link expense with attendance
+    //   }
+    // } else {
+    //   // Case 2: Attendance marked ABSENT or unmarked (present = false)
+    //   if (attendance.expenseId) {
+    //     // Delete linked expense
+    //     await Expense.findOneAndDelete({
+    //       _id: attendance.expenseId,
+    //       userId: req.userId,
+    //     });
+    //     attendance.expenseId = null; // Unlink the expense
+    //   }
+    // }
 
     await labor.save();
 
