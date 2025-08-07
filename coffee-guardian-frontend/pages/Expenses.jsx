@@ -21,6 +21,7 @@ import {
   FaWallet,
   FaMoneyBillWave,
 } from "react-icons/fa";
+import ImportButton from "../components/import/ImportButton";
 
 const CATEGORIES = [
   "Fertilizers",
@@ -184,7 +185,7 @@ export default function Expenses() {
           </div>
         </div>
       )}
-
+      <ImportButton type="expense" />
       {/* 3. Add Expense */}
       <form
         onSubmit={(e) => {
