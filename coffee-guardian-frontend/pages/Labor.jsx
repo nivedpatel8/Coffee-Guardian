@@ -48,6 +48,7 @@ import {
   FaHandHoldingUsd,
   FaWallet,
 } from "react-icons/fa";
+import ImportButton from "../components/import/ImportButton";
 
 // StatCard component defined at the top
 function StatCard({ title, value, className, icon: Icon }) {
@@ -648,7 +649,7 @@ export default function Labor() {
                 </Button>
               </form>
             </div>
-
+            <ImportButton type="labor" />
             {/* Labor List with Enhanced Actions */}
             <div className="bg-gray-800 rounded-lg shadow-xl overflow-hidden">
               <div className="px-6 py-4 border-b border-gray-700">

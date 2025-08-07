@@ -13,6 +13,10 @@ const expensesRoutes = require("./routes/expenses");
 const pricesRoutes = require("./routes/prices");
 const adminRoutes = require("./routes/admin");
 const userPracticeStatusRoutes = require("./routes/userPracticeStatus");
+const importRoutes = require('./routes/importRoutes');
+
+
+
 
 const app = express();
 
@@ -68,6 +72,7 @@ app.use("/api/expenses", expensesRoutes);
 app.use("/api/prices", pricesRoutes);
 app.use("/api/admin", adminRoutes);
 app.use("/api/user-practice-status", userPracticeStatusRoutes);
+app.use('/api/import', importRoutes);
 
 // Health check
 app.get("/api/health", (req, res) => {
